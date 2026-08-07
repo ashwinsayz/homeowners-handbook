@@ -1,0 +1,22 @@
+{
+  "id": 13,
+  "slug": "replace-a-kitchen-or-bath-faucet",
+  "category": "Plumbing",
+  "task": "Replace a kitchen or bath faucet",
+  "trigger": "Leak, wear, or upgrade",
+  "priority": "Upgrade",
+  "difficulty": 3,
+  "mode": "DIY",
+  "time": "1-2 hrs",
+  "cost": "$100-400",
+  "steps": [
+    "Shut off the hot/cold supply valves under the sink.",
+    "Disconnect supply lines and remove the old faucet's mounting nuts.",
+    "Clean the sink deck and install the new faucet's gasket/base.",
+    "Connect new supply lines and hand-tighten, then snug with a wrench.",
+    "Turn water on slowly, check for leaks, and run the faucet to clear air/debris."
+  ],
+  "videoTitle": "Search: 'how to replace a kitchen faucet'",
+  "videoUrl": "",
+  "verified": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 100,
+  "slug": "install-a-whole-home-water-leak-sensor-shutoff",
+  "category": "Upgrades & Smart Home",
+  "task": "Install a whole-home water leak sensor/shutoff",
+  "trigger": "Upgrade / flood prevention",
+  "priority": "Upgrade",
+  "difficulty": 3,
+  "mode": "DIY or Pro",
+  "time": "1-3 hrs",
+  "cost": "$200-500",
+  "steps": [
+    "Place point sensors near water heaters, washing machines, and under sinks.",
+    "For a whole-home automatic shutoff valve, it installs inline on the main water line.",
+    "If comfortable with plumbing and low-voltage wiring, this can be a DIY project; otherwise hire a plumber.",
+    "Connect the system to Wi-Fi and pair sensors with the shutoff valve/app.",
+    "Test by simulating a leak (a wet paper towel on a sensor) to confirm alerts and auto-shutoff work."
+  ],
+  "videoTitle": "Search: 'how to install a smart water leak detector shutoff valve'",
+  "videoUrl": "",
+  "verified": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 97,
+  "slug": "install-smart-smoke-co-detectors",
+  "category": "Upgrades & Smart Home",
+  "task": "Install smart smoke/CO detectors",
+  "trigger": "Upgrade for interconnected alerts",
+  "priority": "Upgrade",
+  "difficulty": 3,
+  "mode": "DIY or Pro",
+  "time": "1-2 hrs per unit",
+  "cost": "$40-120 per unit",
+  "steps": [
+    "Plan detector locations: every bedroom, hallway, and level of the home.",
+    "Turn off power at the breaker if hardwiring; verify with a tester.",
+    "Mount the new base plate and connect the wiring harness/pigtail.",
+    "Pair each unit with the manufacturer's app and assign it to a room.",
+    "Test all units and set up mobile alerts."
+  ],
+  "videoTitle": "How to Install Smart Smoke and CO Detectors - This Old House",
+  "videoUrl": "https://www.thisoldhouse.com/smart-homes/21016109/how-to-install-smart-smoke-and-co-detectors",
+  "verified": true
+}

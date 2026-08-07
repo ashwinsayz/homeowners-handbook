@@ -1,0 +1,22 @@
+{
+  "id": 36,
+  "slug": "clean-gutters",
+  "category": "Exterior & Roof",
+  "task": "Clean gutters",
+  "trigger": "Spring and fall",
+  "priority": "Preventive",
+  "difficulty": 2,
+  "mode": "DIY or Pro",
+  "time": "1-2 hrs",
+  "cost": "$0-200 (pro)",
+  "steps": [
+    "Set up a sturdy ladder on level ground with a stabilizer.",
+    "Scoop out leaves and debris by hand or gutter scoop, working toward the downspout.",
+    "Flush the gutter with a hose to check the slope and flow.",
+    "Run water down each downspout to confirm it isn't clogged.",
+    "Check for sagging sections or loose hangers while you're up there."
+  ],
+  "videoTitle": "How to Clear Your Home's Gutters in a Few Simple Steps - This Old House",
+  "videoUrl": "https://www.thisoldhouse.com/gutters/how-to-clean-gutters",
+  "verified": true
+}

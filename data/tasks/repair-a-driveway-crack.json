@@ -1,0 +1,22 @@
+{
+  "id": 44,
+  "slug": "repair-a-driveway-crack",
+  "category": "Exterior & Roof",
+  "task": "Repair a driveway crack",
+  "trigger": "As cracks appear",
+  "priority": "Cosmetic",
+  "difficulty": 1,
+  "mode": "DIY",
+  "time": "30-60 min",
+  "cost": "$15-30",
+  "steps": [
+    "Clean the crack with a wire brush and remove loose debris/vegetation.",
+    "For cracks under 1/2 inch, use a pourable asphalt or concrete crack filler.",
+    "For wider cracks, use a backer rod before filling.",
+    "Smooth the filler level with the surrounding surface using a trowel.",
+    "Let cure fully (check label) before driving or walking on it."
+  ],
+  "videoTitle": "Search: 'how to fill a driveway crack'",
+  "videoUrl": "",
+  "verified": false
+}

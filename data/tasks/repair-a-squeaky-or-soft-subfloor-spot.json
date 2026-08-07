@@ -1,0 +1,22 @@
+{
+  "id": 80,
+  "slug": "repair-a-squeaky-or-soft-subfloor-spot",
+  "category": "Flooring",
+  "task": "Repair a squeaky or soft subfloor spot",
+  "trigger": "Bounce or squeak underfoot",
+  "priority": "Preventive",
+  "difficulty": 3,
+  "mode": "DIY or Pro",
+  "time": "1-3 hrs",
+  "cost": "$20-100+",
+  "steps": [
+    "Access the area from below (basement/crawlspace) if possible.",
+    "Look for gaps between the subfloor and joist, or signs of water damage/rot.",
+    "For a gap, apply construction adhesive and drive screws up through a cleat into the subfloor.",
+    "For soft/rotted sections, the damaged subfloor must be cut out and replaced - consider a pro.",
+    "From above, breakaway screws can pull down a squeaky spot without ceiling access."
+  ],
+  "videoTitle": "Search: 'how to fix a soft or squeaky subfloor'",
+  "videoUrl": "",
+  "verified": false
+}

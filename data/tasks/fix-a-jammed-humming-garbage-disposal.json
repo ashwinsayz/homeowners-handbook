@@ -1,0 +1,22 @@
+{
+  "id": 22,
+  "slug": "fix-a-jammed-humming-garbage-disposal",
+  "category": "Plumbing",
+  "task": "Fix a jammed/humming garbage disposal",
+  "trigger": "No spin, humming sound",
+  "priority": "Preventive",
+  "difficulty": 1,
+  "mode": "DIY",
+  "time": "10-15 min",
+  "cost": "$0-10",
+  "steps": [
+    "Turn off the disposal and never put your hand inside it.",
+    "Use the offset hex wrench in the center hole on the unit's underside to free the flywheel.",
+    "Press the red reset button on the bottom of the unit.",
+    "Turn on cold water and run the disposal briefly to test.",
+    "If it still won't run, check the breaker/GFCI outlet it's plugged into."
+  ],
+  "videoTitle": "How To Repair a Garbage Disposal - This Old House",
+  "videoUrl": "https://www.thisoldhouse.com/plumbing/how-to-repair-a-garbage-disposal",
+  "verified": true
+}

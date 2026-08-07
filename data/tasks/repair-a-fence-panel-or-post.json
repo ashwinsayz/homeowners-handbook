@@ -1,0 +1,22 @@
+{
+  "id": 91,
+  "slug": "repair-a-fence-panel-or-post",
+  "category": "Outdoor & Deck",
+  "task": "Repair a fence panel or post",
+  "trigger": "Leaning, rotted, or storm-damaged",
+  "priority": "Preventive",
+  "difficulty": 3,
+  "mode": "DIY",
+  "time": "2-4 hrs",
+  "cost": "$30-150 per post",
+  "steps": [
+    "Identify whether the post has rotted at the base or the concrete footing has cracked.",
+    "Remove damaged pickets/panels to access the post.",
+    "Dig out the old post and concrete footing (or brace and reset if just leaning).",
+    "Set a new post in fresh concrete, using a level to keep it plumb while it cures.",
+    "Reattach panels/pickets once the concrete has fully cured (24-48 hrs)."
+  ],
+  "videoTitle": "Search: 'how to replace a rotted fence post'",
+  "videoUrl": "",
+  "verified": false
+}

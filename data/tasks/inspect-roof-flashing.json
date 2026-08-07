@@ -1,0 +1,22 @@
+{
+  "id": 39,
+  "slug": "inspect-roof-flashing",
+  "category": "Exterior & Roof",
+  "task": "Inspect roof flashing",
+  "trigger": "Annually / before storm season",
+  "priority": "Preventive",
+  "difficulty": 3,
+  "mode": "DIY or Pro",
+  "time": "30 min (visual)",
+  "cost": "$0-300 if repair needed",
+  "steps": [
+    "From the ground or a ladder, visually check flashing around chimneys, vents, and skylights.",
+    "Look for rust, gaps, or lifted edges where two roof planes meet.",
+    "Check the attic for daylight or water stains near these penetrations.",
+    "Minor gaps can be resealed with roofing sealant from a stable ladder position.",
+    "Damaged or missing flashing sections should be replaced by a roofer."
+  ],
+  "videoTitle": "Search: 'how to inspect roof flashing for leaks'",
+  "videoUrl": "",
+  "verified": false
+}

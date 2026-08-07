@@ -1,0 +1,22 @@
+{
+  "id": 67,
+  "slug": "re-caulk-windows",
+  "category": "Doors, Windows & Weatherproofing",
+  "task": "Re-caulk windows",
+  "trigger": "Cracked or missing caulk",
+  "priority": "Preventive",
+  "difficulty": 1,
+  "mode": "DIY",
+  "time": "20-30 min per window",
+  "cost": "$5-10",
+  "steps": [
+    "Remove old, cracked caulk with a scraper or utility knife.",
+    "Clean the gap and let it dry fully.",
+    "Apply painter's tape for a clean edge if desired.",
+    "Run a smooth bead of exterior-grade caulk along the window frame's edge.",
+    "Smooth with a wet finger and let cure before painting."
+  ],
+  "videoTitle": "Search: 'how to caulk around windows'",
+  "videoUrl": "",
+  "verified": false
+}

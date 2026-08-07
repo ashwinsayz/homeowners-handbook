@@ -1,0 +1,22 @@
+{
+  "id": 57,
+  "slug": "replace-refrigerator-water-filter",
+  "category": "Appliances",
+  "task": "Replace refrigerator water filter",
+  "trigger": "Every 6 months or per indicator",
+  "priority": "Preventive",
+  "difficulty": 1,
+  "mode": "DIY",
+  "time": "5 min",
+  "cost": "$20-50",
+  "steps": [
+    "Locate the filter (inside the fridge or at the grille, depending on model).",
+    "Turn or pull the filter to release it per the manual.",
+    "Insert the new filter and twist/push to lock into place.",
+    "Run several gallons of water through the dispenser to flush carbon dust.",
+    "Reset the filter indicator light if your model has one."
+  ],
+  "videoTitle": "Search: 'how to replace refrigerator water filter'",
+  "videoUrl": "",
+  "verified": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 51,
+  "slug": "fix-a-squeaky-floor-or-stairs",
+  "category": "Interior & Paint",
+  "task": "Fix a squeaky floor or stairs",
+  "trigger": "As noticed",
+  "priority": "Cosmetic",
+  "difficulty": 2,
+  "mode": "DIY",
+  "time": "30-60 min per spot",
+  "cost": "$15-30",
+  "steps": [
+    "Walk the area to pinpoint the exact squeaky board.",
+    "From above, drive a breakaway screw kit through the flooring into the joist below.",
+    "Snap off the screw head below the surface and fill with matching wax filler.",
+    "From below (if accessible), add a shim with wood glue between the subfloor and joist.",
+    "Test by walking over the spot again before patching visible holes."
+  ],
+  "videoTitle": "How To Fix Squeaky Floors - This Old House",
+  "videoUrl": "https://www.thisoldhouse.com/flooring/21015195/how-to-fix-squeaky-floors",
+  "verified": true
+}

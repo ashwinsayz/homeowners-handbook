@@ -1,0 +1,22 @@
+{
+  "id": 54,
+  "slug": "touch-up-trim-and-baseboard-paint",
+  "category": "Interior & Paint",
+  "task": "Touch up trim and baseboard paint",
+  "trigger": "Scuffs and scrapes",
+  "priority": "Cosmetic",
+  "difficulty": 1,
+  "mode": "DIY",
+  "time": "30-45 min",
+  "cost": "$10-15",
+  "steps": [
+    "Clean the trim with a damp cloth to remove dust/grime.",
+    "Lightly sand any rough or chipped spots.",
+    "Apply painter's tape to protect adjacent walls/flooring.",
+    "Use a small angled brush to apply matching trim paint in thin coats.",
+    "Remove tape before the paint fully dries to avoid peeling."
+  ],
+  "videoTitle": "Search: 'how to touch up baseboard paint'",
+  "videoUrl": "",
+  "verified": false
+}

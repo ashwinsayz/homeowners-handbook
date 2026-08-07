@@ -1,0 +1,22 @@
+{
+  "id": 10,
+  "slug": "test-whole-home-humidifier-dehumidifier",
+  "category": "HVAC & Air Quality",
+  "task": "Test whole-home humidifier/dehumidifier",
+  "trigger": "Seasonally",
+  "priority": "Preventive",
+  "difficulty": 2,
+  "mode": "DIY",
+  "time": "20 min",
+  "cost": "$0-30",
+  "steps": [
+    "Check the water panel/evaporator pad for mineral scale buildup.",
+    "Replace the pad if it's stiff, cracked, or heavily scaled.",
+    "Clean the reservoir with a vinegar-water solution to remove mold.",
+    "Verify the humidistat setting matches the season (lower in winter to avoid condensation).",
+    "Run a full cycle and confirm water flow and shutoff work correctly."
+  ],
+  "videoTitle": "Search: 'how to maintain a whole home humidifier'",
+  "videoUrl": "",
+  "verified": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 4,
+  "slug": "clean-dryer-vent",
+  "category": "HVAC & Air Quality",
+  "task": "Clean dryer vent",
+  "trigger": "Annually",
+  "priority": "Safety-Critical",
+  "difficulty": 2,
+  "mode": "DIY",
+  "time": "45-60 min",
+  "cost": "$20-40",
+  "steps": [
+    "Unplug the dryer and pull it away from the wall.",
+    "Disconnect the vent hose from the dryer and the wall port.",
+    "Vacuum lint from inside the dryer's exhaust port and hose.",
+    "Use a vent-cleaning brush kit to clear the full duct run to the exterior vent.",
+    "Reconnect the hose with a clamp, plug in the dryer, and run a cycle to test airflow."
+  ],
+  "videoTitle": "How to Clean a Dryer Vent - Family Handyman",
+  "videoUrl": "https://www.familyhandyman.com/project/how-to-clean-dryer-vent/",
+  "verified": true
+}

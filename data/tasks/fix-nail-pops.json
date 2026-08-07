@@ -1,0 +1,22 @@
+{
+  "id": 48,
+  "slug": "fix-nail-pops",
+  "category": "Interior & Paint",
+  "task": "Fix nail pops",
+  "trigger": "Small raised bumps in wall/ceiling",
+  "priority": "Cosmetic",
+  "difficulty": 1,
+  "mode": "DIY",
+  "time": "20 min",
+  "cost": "$5",
+  "steps": [
+    "Drive the popped nail back in slightly below the surface, or remove it.",
+    "Add a new drywall screw a couple inches away into the stud.",
+    "Cover both with joint compound in thin layers.",
+    "Sand smooth once dry.",
+    "Prime and touch up paint."
+  ],
+  "videoTitle": "Search: 'how to fix nail pops in drywall'",
+  "videoUrl": "",
+  "verified": false
+}

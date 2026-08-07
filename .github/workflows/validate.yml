@@ -1,0 +1,32 @@
+name: Validate site
+
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+    branches: ["**"]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate task JSON schema
+        run: python3 generator/validate_tasks.py
+
+      - name: Build site
+        run: python3 generator/build.py
+
+      - name: Check for broken internal links
+        run: python3 generator/check_links.py
+
+      - name: Upload dist as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: dist
+          path: dist/

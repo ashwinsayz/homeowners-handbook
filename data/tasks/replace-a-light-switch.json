@@ -1,0 +1,22 @@
+{
+  "id": 26,
+  "slug": "replace-a-light-switch",
+  "category": "Electrical",
+  "task": "Replace a light switch",
+  "trigger": "Worn or upgrade to dimmer",
+  "priority": "Preventive",
+  "difficulty": 2,
+  "mode": "DIY",
+  "time": "20-30 min",
+  "cost": "$5-25",
+  "steps": [
+    "Turn off power at the breaker and confirm with a voltage tester.",
+    "Remove the cover plate and unscrew the switch from the box.",
+    "Photograph wire positions, then disconnect the old switch.",
+    "Connect wires to the new switch matching the same terminals.",
+    "Screw the switch into the box, replace the plate, and restore power to test."
+  ],
+  "videoTitle": "Search: 'how to replace a light switch safely'",
+  "videoUrl": "",
+  "verified": false
+}

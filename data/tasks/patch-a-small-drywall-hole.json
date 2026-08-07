@@ -1,0 +1,22 @@
+{
+  "id": 46,
+  "slug": "patch-a-small-drywall-hole",
+  "category": "Interior & Paint",
+  "task": "Patch a small drywall hole",
+  "trigger": "Nail holes, small dents",
+  "priority": "Cosmetic",
+  "difficulty": 1,
+  "mode": "DIY",
+  "time": "20-30 min",
+  "cost": "$5-10",
+  "steps": [
+    "Clean loose debris from the hole.",
+    "Apply lightweight spackle with a putty knife, slightly overfilling.",
+    "Let dry fully (check product time), then sand flush with fine-grit sandpaper.",
+    "Wipe away dust with a damp cloth.",
+    "Prime and paint to match the surrounding wall."
+  ],
+  "videoTitle": "How To Patch Drywall - This Old House",
+  "videoUrl": "https://www.thisoldhouse.com/walls/21017164/how-to-patch-drywall",
+  "verified": true
+}

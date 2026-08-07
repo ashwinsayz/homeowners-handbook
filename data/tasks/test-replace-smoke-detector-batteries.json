@@ -1,0 +1,22 @@
+{
+  "id": 32,
+  "slug": "test-replace-smoke-detector-batteries",
+  "category": "Electrical",
+  "task": "Test/replace smoke detector batteries",
+  "trigger": "Every 6 months (time-change reminder)",
+  "priority": "Safety-Critical",
+  "difficulty": 1,
+  "mode": "DIY",
+  "time": "10 min per detector",
+  "cost": "$5-10",
+  "steps": [
+    "Press the test button on each detector and listen for the alarm tone.",
+    "Open the battery compartment and swap in a fresh battery (9V or AA depending on model).",
+    "Reinstall and press test again to confirm it's working.",
+    "Vacuum dust from the vents on the detector housing.",
+    "Replace the entire unit if it's over 10 years old, regardless of battery."
+  ],
+  "videoTitle": "How to Install a Hard Wired Smoke Detector - Family Handyman",
+  "videoUrl": "https://www.familyhandyman.com/project/install-new-hard-wired-or-battery-powered-smoke-alarms/",
+  "verified": true
+}

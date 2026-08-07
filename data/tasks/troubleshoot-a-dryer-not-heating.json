@@ -1,0 +1,22 @@
+{
+  "id": 65,
+  "slug": "troubleshoot-a-dryer-not-heating",
+  "category": "Appliances",
+  "task": "Troubleshoot a dryer not heating",
+  "trigger": "No heat but tumbles fine",
+  "priority": "Preventive",
+  "difficulty": 2,
+  "mode": "DIY or Pro",
+  "time": "30-60 min",
+  "cost": "$0-50",
+  "steps": [
+    "Check that the dryer vent isn't clogged (a top cause of heating issues).",
+    "For gas dryers, confirm the gas supply valve is fully open.",
+    "Check the breaker/circuit - electric dryers need two working breakers (240V).",
+    "Inspect the thermal fuse (a common failure point) with a multimeter if comfortable.",
+    "If the heating element or gas valve is at fault, call an appliance technician."
+  ],
+  "videoTitle": "Search: 'dryer not heating troubleshooting guide'",
+  "videoUrl": "",
+  "verified": false
+}

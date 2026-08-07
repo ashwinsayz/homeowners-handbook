@@ -1,0 +1,22 @@
+{
+  "id": 45,
+  "slug": "clean-and-inspect-the-chimney",
+  "category": "Exterior & Roof",
+  "task": "Clean and inspect the chimney",
+  "trigger": "Annually, before burning season",
+  "priority": "Safety-Critical",
+  "difficulty": 4,
+  "mode": "Pro",
+  "time": "1-2 hrs",
+  "cost": "$150-400",
+  "steps": [
+    "Schedule a certified chimney sweep (CSIA-certified) before winter.",
+    "The sweep checks for creosote buildup, a major chimney fire cause.",
+    "They inspect the flue liner, damper, and cap for damage or blockage (animal nests).",
+    "Ask for a Level 1 inspection annually; a Level 2 if you've had changes or damage.",
+    "Keep the documentation - it's often required by homeowners insurance."
+  ],
+  "videoTitle": "Search: 'chimney sweep inspection what to expect'",
+  "videoUrl": "",
+  "verified": false
+}

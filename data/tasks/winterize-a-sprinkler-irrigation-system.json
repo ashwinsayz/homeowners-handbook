@@ -1,0 +1,22 @@
+{
+  "id": 89,
+  "slug": "winterize-a-sprinkler-irrigation-system",
+  "category": "Outdoor & Deck",
+  "task": "Winterize a sprinkler irrigation system",
+  "trigger": "Before first hard freeze",
+  "priority": "Preventive",
+  "difficulty": 2,
+  "mode": "DIY or Pro",
+  "time": "1-2 hrs",
+  "cost": "$0-100 (pro blow-out)",
+  "steps": [
+    "Shut off the water supply to the irrigation system at the backflow valve.",
+    "Turn off the automatic controller or set it to 'rain mode' / off.",
+    "Open drain valves on the system if it has manual drains.",
+    "For systems without drains, a pro uses an air compressor to blow out remaining water (recommended, since DIY blow-outs risk pipe damage from over-pressurizing).",
+    "Insulate the backflow preventer with a foam cover."
+  ],
+  "videoTitle": "Search: 'how to winterize a sprinkler system'",
+  "videoUrl": "",
+  "verified": false
+}

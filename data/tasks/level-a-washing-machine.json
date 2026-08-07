@@ -1,0 +1,22 @@
+{
+  "id": 59,
+  "slug": "level-a-washing-machine",
+  "category": "Appliances",
+  "task": "Level a washing machine",
+  "trigger": "Excess vibration/walking during spin",
+  "priority": "Preventive",
+  "difficulty": 1,
+  "mode": "DIY",
+  "time": "15 min",
+  "cost": "$0",
+  "steps": [
+    "Place a level on top of the washer, front-to-back and side-to-side.",
+    "Loosen the locknuts on the adjustable feet.",
+    "Turn the feet to raise/lower each corner until level.",
+    "Tighten the locknuts back against the cabinet base.",
+    "Run a spin cycle to confirm vibration/walking has stopped."
+  ],
+  "videoTitle": "Search: 'how to level a washing machine'",
+  "videoUrl": "",
+  "verified": false
+}

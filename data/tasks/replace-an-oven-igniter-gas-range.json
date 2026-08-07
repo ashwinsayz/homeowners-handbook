@@ -1,0 +1,22 @@
+{
+  "id": 61,
+  "slug": "replace-an-oven-igniter-gas-range",
+  "category": "Appliances",
+  "task": "Replace an oven igniter (gas range)",
+  "trigger": "Oven won't heat / clicks but no flame",
+  "priority": "Preventive",
+  "difficulty": 3,
+  "mode": "DIY or Pro",
+  "time": "45-60 min",
+  "cost": "$30-60",
+  "steps": [
+    "Turn off the gas supply and unplug the range.",
+    "Remove the oven bottom panel to access the igniter.",
+    "Disconnect the wire harness and mounting screws, then remove the old igniter.",
+    "Install the new igniter, matching wire connections and mounting.",
+    "Restore gas/power and test the oven; if unsure about gas lines, hire an appliance tech."
+  ],
+  "videoTitle": "Search: 'how to replace a gas oven igniter'",
+  "videoUrl": "",
+  "verified": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 98,
+  "slug": "install-a-video-doorbell",
+  "category": "Upgrades & Smart Home",
+  "task": "Install a video doorbell",
+  "trigger": "Upgrade / security",
+  "priority": "Upgrade",
+  "difficulty": 2,
+  "mode": "DIY",
+  "time": "30-60 min",
+  "cost": "$100-250",
+  "steps": [
+    "Turn off power to the existing doorbell transformer if hardwiring.",
+    "Remove the old doorbell and check wiring voltage compatibility.",
+    "Mount the new bracket at the recommended angle for your entryway.",
+    "Connect the wiring or install the battery pack.",
+    "Complete app setup, adjust motion zones, and test the live view/chime."
+  ],
+  "videoTitle": "Search: 'how to install a smart video doorbell'",
+  "videoUrl": "",
+  "verified": false
+}

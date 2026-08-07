@@ -1,0 +1,22 @@
+{
+  "id": 58,
+  "slug": "clean-dishwasher-filter-and-drain",
+  "category": "Appliances",
+  "task": "Clean dishwasher filter and drain",
+  "trigger": "Every 1-3 months",
+  "priority": "Preventive",
+  "difficulty": 1,
+  "mode": "DIY",
+  "time": "15 min",
+  "cost": "$0",
+  "steps": [
+    "Remove the bottom rack to access the filter assembly.",
+    "Twist and lift out the cylindrical filter.",
+    "Rinse it under running water and scrub off trapped food debris.",
+    "Check the drain area for debris and remove any buildup.",
+    "Reinsert the filter, twisting to lock it back in place."
+  ],
+  "videoTitle": "Search: 'how to clean dishwasher filter'",
+  "videoUrl": "",
+  "verified": false
+}

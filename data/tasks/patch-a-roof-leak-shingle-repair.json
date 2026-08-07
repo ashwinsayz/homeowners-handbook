@@ -1,0 +1,22 @@
+{
+  "id": 38,
+  "slug": "patch-a-roof-leak-shingle-repair",
+  "category": "Exterior & Roof",
+  "task": "Patch a roof leak (shingle repair)",
+  "trigger": "Active leak or storm damage",
+  "priority": "Safety-Critical",
+  "difficulty": 4,
+  "mode": "Pro",
+  "time": "1-3 hrs",
+  "cost": "$150-500",
+  "steps": [
+    "Note where water stains appear inside - the leak source is often higher up the roof.",
+    "For safety, most homeowners should not walk a sloped roof; hire a roofer.",
+    "A pro lifts surrounding shingles, replaces damaged ones, and reseals with roofing cement.",
+    "Ask them to check the underlayment and flashing near the leak, not just the shingle.",
+    "Get photos of the repair and ask about remaining shingle/roof lifespan."
+  ],
+  "videoTitle": "Search: 'roof shingle leak repair process'",
+  "videoUrl": "",
+  "verified": false
+}

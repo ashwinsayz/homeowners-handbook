@@ -1,0 +1,22 @@
+{
+  "id": 94,
+  "slug": "inspect-and-clean-window-wells",
+  "category": "Outdoor & Deck",
+  "task": "Inspect and clean window wells",
+  "trigger": "Before fall rains",
+  "priority": "Preventive",
+  "difficulty": 1,
+  "mode": "DIY",
+  "time": "20-30 min per well",
+  "cost": "$0-30",
+  "steps": [
+    "Remove leaves, dirt, and debris from the well.",
+    "Check the drain at the bottom of the well (if present) for clogs.",
+    "Inspect the window well cover for cracks or gaps.",
+    "Verify the well liner isn't pulling away from the foundation.",
+    "Consider adding gravel at the bottom to improve drainage if water pools."
+  ],
+  "videoTitle": "Search: 'how to clean and maintain a window well'",
+  "videoUrl": "",
+  "verified": false
+}

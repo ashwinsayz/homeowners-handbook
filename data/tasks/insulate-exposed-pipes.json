@@ -1,0 +1,22 @@
+{
+  "id": 19,
+  "slug": "insulate-exposed-pipes",
+  "category": "Plumbing",
+  "task": "Insulate exposed pipes",
+  "trigger": "Before winter / cold climates",
+  "priority": "Preventive",
+  "difficulty": 1,
+  "mode": "DIY",
+  "time": "30-60 min",
+  "cost": "$20-50",
+  "steps": [
+    "Identify pipes in unheated areas: crawlspace, garage, exterior walls.",
+    "Measure pipe diameter and buy matching foam pipe insulation sleeves.",
+    "Slide sleeves over straight runs; use tape at seams and joints.",
+    "Use pre-formed elbow pieces or extra tape at bends.",
+    "Focus first on any pipe that has frozen before."
+  ],
+  "videoTitle": "Search: 'how to insulate exposed pipes'",
+  "videoUrl": "",
+  "verified": false
+}

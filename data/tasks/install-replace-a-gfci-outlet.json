@@ -1,0 +1,22 @@
+{
+  "id": 28,
+  "slug": "install-replace-a-gfci-outlet",
+  "category": "Electrical",
+  "task": "Install/replace a GFCI outlet",
+  "trigger": "Kitchen, bath, garage, outdoor, near water",
+  "priority": "Safety-Critical",
+  "difficulty": 2,
+  "mode": "DIY",
+  "time": "30-45 min",
+  "cost": "$15-25",
+  "steps": [
+    "Turn off power at the breaker and test with a voltage tester.",
+    "Remove the old outlet and photograph the LINE and LOAD wire connections.",
+    "Connect incoming power wires to the LINE terminals on the new GFCI.",
+    "Connect any downstream-protected wires to the LOAD terminals.",
+    "Secure in the box, restore power, then press TEST and RESET to confirm it trips correctly."
+  ],
+  "videoTitle": "How To Install a GFCI Outlet - This Old House",
+  "videoUrl": "https://www.thisoldhouse.com/electrical/how-to-upgrade-to-gfci-outlets",
+  "verified": true
+}

@@ -1,0 +1,22 @@
+{
+  "id": 63,
+  "slug": "replace-range-hood-filter",
+  "category": "Appliances",
+  "task": "Replace range hood filter",
+  "trigger": "Every 1-3 months (grease), 6-12 months (charcoal)",
+  "priority": "Preventive",
+  "difficulty": 1,
+  "mode": "DIY",
+  "time": "10 min",
+  "cost": "$10-25",
+  "steps": [
+    "Slide or unclip the metal grease filter from the hood.",
+    "Wash it in hot soapy water or run it through the dishwasher.",
+    "Replace charcoal/carbon filters (non-washable) per the manufacturer's schedule.",
+    "Wipe down the hood interior while the filter is out.",
+    "Reinstall the filter, ensuring it clicks/seats fully."
+  ],
+  "videoTitle": "Search: 'how to clean or replace range hood filter'",
+  "videoUrl": "",
+  "verified": false
+}

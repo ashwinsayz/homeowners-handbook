@@ -1,0 +1,22 @@
+{
+  "id": 72,
+  "slug": "repair-a-garage-door-opener-sensor-issue",
+  "category": "Doors, Windows & Weatherproofing",
+  "task": "Repair a garage door opener sensor issue",
+  "trigger": "Door won't close / reverses",
+  "priority": "Safety-Critical",
+  "difficulty": 2,
+  "mode": "DIY",
+  "time": "20-30 min",
+  "cost": "$0-30",
+  "steps": [
+    "Check that both safety sensors near the floor are aligned facing each other (steady light, not blinking).",
+    "Clean the sensor lenses of dust, cobwebs, or condensation.",
+    "Remove any object blocking the sensor beam.",
+    "Gently loosen and realign a sensor bracket if the light is blinking/misaligned.",
+    "Test by closing the door and waving an object through the beam - it should reverse."
+  ],
+  "videoTitle": "Search: 'garage door sensor not aligned troubleshooting'",
+  "videoUrl": "",
+  "verified": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 47,
+  "slug": "patch-a-large-drywall-hole",
+  "category": "Interior & Paint",
+  "task": "Patch a large drywall hole",
+  "trigger": "Doorknob dents, larger damage",
+  "priority": "Preventive",
+  "difficulty": 3,
+  "mode": "DIY",
+  "time": "2-3 hrs (+ dry time)",
+  "cost": "$15-30",
+  "steps": [
+    "Cut a clean square/rectangle around the damaged area.",
+    "Screw a wood or drywall-scrap backer behind the hole for support.",
+    "Cut a drywall patch to fit and screw it to the backer.",
+    "Apply joint compound and paper/mesh tape over the seams in thin layers.",
+    "Sand between coats, then prime and paint once fully smooth and dry."
+  ],
+  "videoTitle": "How to Patch Holes in Drywall in 9 Easy Steps - This Old House",
+  "videoUrl": "https://www.thisoldhouse.com/walls/how-to-patch-holes-in-drywall",
+  "verified": true
+}

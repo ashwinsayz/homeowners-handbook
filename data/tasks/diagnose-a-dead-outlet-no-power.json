@@ -1,0 +1,22 @@
+{
+  "id": 34,
+  "slug": "diagnose-a-dead-outlet-no-power",
+  "category": "Electrical",
+  "task": "Diagnose a dead outlet (no power)",
+  "trigger": "Outlet stopped working",
+  "priority": "Preventive",
+  "difficulty": 2,
+  "mode": "DIY",
+  "time": "15-20 min",
+  "cost": "$0",
+  "steps": [
+    "Check the breaker panel for a tripped breaker first.",
+    "Press the RESET button on any GFCI outlets on the same circuit - one dead GFCI can kill downstream outlets.",
+    "Plug a lamp into nearby outlets to map which ones are affected.",
+    "Turn off power and check for a loose wire connection at the dead outlet.",
+    "If wiring looks fine and power is confirmed off elsewhere, call an electrician to check for a break in the line."
+  ],
+  "videoTitle": "Search: 'outlet not working troubleshooting no power'",
+  "videoUrl": "",
+  "verified": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 76,
+  "slug": "re-grout-tile",
+  "category": "Flooring",
+  "task": "Re-grout tile",
+  "trigger": "Cracked, crumbling, or discolored grout",
+  "priority": "Preventive",
+  "difficulty": 2,
+  "mode": "DIY",
+  "time": "2-4 hrs (+ cure time)",
+  "cost": "$20-40",
+  "steps": [
+    "Use a grout saw or oscillating tool to remove old grout from the joints.",
+    "Vacuum out dust and debris from the joints.",
+    "Mix new grout to a peanut-butter consistency and apply with a rubber float, packing joints diagonally.",
+    "Wipe excess grout off tile faces with a damp sponge before it fully sets.",
+    "Once cured, apply grout sealer (for cement-based grout) to resist future staining."
+  ],
+  "videoTitle": "Search: 'how to regrout tile step by step'",
+  "videoUrl": "",
+  "verified": false
+}

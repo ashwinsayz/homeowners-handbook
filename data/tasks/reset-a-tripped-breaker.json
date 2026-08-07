@@ -1,0 +1,22 @@
+{
+  "id": 29,
+  "slug": "reset-a-tripped-breaker",
+  "category": "Electrical",
+  "task": "Reset a tripped breaker",
+  "trigger": "Power loss to part of the home",
+  "priority": "Safety-Critical",
+  "difficulty": 1,
+  "mode": "DIY",
+  "time": "5 min",
+  "cost": "$0",
+  "steps": [
+    "Go to the electrical panel and look for a breaker in the middle or 'off' position.",
+    "Unplug or turn off major appliances on that circuit before resetting.",
+    "Firmly push the breaker to full OFF, then back to ON.",
+    "If it trips again immediately, stop and call an electrician - that signals a short or overload.",
+    "Label the panel if the affected circuit wasn't already marked."
+  ],
+  "videoTitle": "Search: 'how to safely reset a tripped circuit breaker'",
+  "videoUrl": "",
+  "verified": false
+}

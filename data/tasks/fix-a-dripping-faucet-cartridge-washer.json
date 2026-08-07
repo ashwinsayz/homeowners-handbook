@@ -1,0 +1,22 @@
+{
+  "id": 14,
+  "slug": "fix-a-dripping-faucet-cartridge-washer",
+  "category": "Plumbing",
+  "task": "Fix a dripping faucet (cartridge/washer)",
+  "trigger": "As soon as noticed",
+  "priority": "Preventive",
+  "difficulty": 2,
+  "mode": "DIY",
+  "time": "30-45 min",
+  "cost": "$10-30",
+  "steps": [
+    "Shut off the water supply valves under the sink.",
+    "Remove the faucet handle (pry off the cap, remove the screw).",
+    "Pull out the cartridge or stem/washer assembly - bring it to the hardware store to match.",
+    "Install the new cartridge or washer and O-rings.",
+    "Reassemble, turn water back on, and test for drips."
+  ],
+  "videoTitle": "Search: 'how to fix a dripping faucet cartridge'",
+  "videoUrl": "",
+  "verified": false
+}

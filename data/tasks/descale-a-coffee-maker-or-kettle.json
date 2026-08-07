@@ -1,0 +1,22 @@
+{
+  "id": 64,
+  "slug": "descale-a-coffee-maker-or-kettle",
+  "category": "Appliances",
+  "task": "Descale a coffee maker or kettle",
+  "trigger": "Every 1-3 months",
+  "priority": "Preventive",
+  "difficulty": 1,
+  "mode": "DIY",
+  "time": "30-60 min",
+  "cost": "$5-10",
+  "steps": [
+    "Fill the reservoir with a 1:1 water and white vinegar solution (or a descaling product).",
+    "Run a brew cycle halfway, then let it sit for 30 minutes.",
+    "Finish the cycle, then run 2 full cycles of plain water to rinse.",
+    "Wipe down the exterior and carafe.",
+    "Repeat monthly in hard-water areas."
+  ],
+  "videoTitle": "Search: 'how to descale a coffee maker with vinegar'",
+  "videoUrl": "",
+  "verified": false
+}

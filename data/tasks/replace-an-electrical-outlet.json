@@ -1,0 +1,22 @@
+{
+  "id": 27,
+  "slug": "replace-an-electrical-outlet",
+  "category": "Electrical",
+  "task": "Replace an electrical outlet",
+  "trigger": "Worn, loose, or discolored",
+  "priority": "Safety-Critical",
+  "difficulty": 2,
+  "mode": "DIY",
+  "time": "20-30 min",
+  "cost": "$5-15",
+  "steps": [
+    "Turn off power at the breaker and verify with a non-contact voltage tester.",
+    "Remove the cover plate and unscrew the outlet from the electrical box.",
+    "Note wire positions (black=hot, white=neutral, bare/green=ground) before disconnecting.",
+    "Connect wires to matching terminals on the new outlet.",
+    "Push the outlet into the box, secure it, replace the cover, and restore power."
+  ],
+  "videoTitle": "Search: 'how to replace an electrical outlet'",
+  "videoUrl": "",
+  "verified": false
+}

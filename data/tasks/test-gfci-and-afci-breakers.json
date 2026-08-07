@@ -1,0 +1,22 @@
+{
+  "id": 84,
+  "slug": "test-gfci-and-afci-breakers",
+  "category": "Safety & Detectors",
+  "task": "Test GFCI and AFCI breakers",
+  "trigger": "Monthly",
+  "priority": "Safety-Critical",
+  "difficulty": 1,
+  "mode": "DIY",
+  "time": "10-15 min",
+  "cost": "$0",
+  "steps": [
+    "Press the TEST button on each GFCI outlet or breaker - power should cut off.",
+    "Press RESET to restore power and confirm it comes back on.",
+    "For AFCI breakers at the panel, use the built-in test button the same way.",
+    "If a device won't reset or trips constantly, that indicates a wiring fault - call an electrician.",
+    "Note any dead outlets after testing so you can restore/investigate them."
+  ],
+  "videoTitle": "Search: 'how to test GFCI and AFCI breakers'",
+  "videoUrl": "",
+  "verified": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 56,
+  "slug": "clean-refrigerator-coils",
+  "category": "Appliances",
+  "task": "Clean refrigerator coils",
+  "trigger": "Every 6-12 months",
+  "priority": "Preventive",
+  "difficulty": 1,
+  "mode": "DIY",
+  "time": "20-30 min",
+  "cost": "$0-10",
+  "steps": [
+    "Unplug the refrigerator.",
+    "Locate the coils (behind a bottom grille or on the back of the unit).",
+    "Vacuum dust and pet hair off with a coil brush or vacuum attachment.",
+    "Wipe down the surrounding area.",
+    "Plug back in - dirty coils are a common cause of a fridge running hot or inefficiently."
+  ],
+  "videoTitle": "Search: 'how to clean refrigerator condenser coils'",
+  "videoUrl": "",
+  "verified": false
+}

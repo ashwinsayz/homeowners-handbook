@@ -1,0 +1,22 @@
+{
+  "id": 11,
+  "slug": "fix-a-running-toilet",
+  "category": "Plumbing",
+  "task": "Fix a running toilet",
+  "trigger": "As soon as noticed (wastes water)",
+  "priority": "Preventive",
+  "difficulty": 1,
+  "mode": "DIY",
+  "time": "20-30 min",
+  "cost": "$10-25",
+  "steps": [
+    "Remove the tank lid and flush to observe the flapper and fill valve.",
+    "Check chain slack on the flapper - adjust so it has slight slack when closed.",
+    "If the flapper is worn/warped, replace it with a matching universal flapper.",
+    "If water still runs, the fill valve may need replacing.",
+    "Turn water back on and flush several times to confirm it stops running."
+  ],
+  "videoTitle": "How To Fix a Running Toilet - This Old House",
+  "videoUrl": "https://www.thisoldhouse.com/plumbing/how-to-fix-a-running-toilet",
+  "verified": true
+}

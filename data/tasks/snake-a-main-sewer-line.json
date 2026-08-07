@@ -1,0 +1,22 @@
+{
+  "id": 18,
+  "slug": "snake-a-main-sewer-line",
+  "category": "Plumbing",
+  "task": "Snake a main sewer line",
+  "trigger": "Recurring/whole-house clogs",
+  "priority": "Safety-Critical",
+  "difficulty": 4,
+  "mode": "Pro",
+  "time": "1-2 hrs",
+  "cost": "$150-500",
+  "steps": [
+    "Note symptoms: multiple drains backing up, gurgling toilets.",
+    "Locate the sewer cleanout (usually a capped pipe near the foundation).",
+    "A pro feeds a motorized auger through the cleanout to the main line.",
+    "Ask about a camera inspection to identify root intrusion or pipe damage.",
+    "Consider annual preventive snaking if you have mature trees near the line."
+  ],
+  "videoTitle": "Search: 'main sewer line cleanout snake process'",
+  "videoUrl": "",
+  "verified": false
+}

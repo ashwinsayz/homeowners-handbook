@@ -1,0 +1,22 @@
+{
+  "id": 3,
+  "slug": "annual-furnace-tune-up-inspection",
+  "category": "HVAC & Air Quality",
+  "task": "Annual furnace tune-up/inspection",
+  "trigger": "Fall, before heating season",
+  "priority": "Safety-Critical",
+  "difficulty": 3,
+  "mode": "Pro",
+  "time": "1-2 hrs",
+  "cost": "$100-200",
+  "steps": [
+    "Schedule a licensed HVAC technician before the first cold snap.",
+    "Technician inspects heat exchanger for cracks (carbon monoxide risk).",
+    "Technician cleans burners, checks ignition, and tests safety controls.",
+    "Ask for a written report of any parts nearing end of life.",
+    "Replace the filter immediately after the visit."
+  ],
+  "videoTitle": "Search: 'furnace tune-up checklist what to expect'",
+  "videoUrl": "",
+  "verified": false
+}

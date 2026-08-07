@@ -1,0 +1,22 @@
+{
+  "id": 17,
+  "slug": "replace-a-toilet-wax-ring",
+  "category": "Plumbing",
+  "task": "Replace a toilet wax ring",
+  "trigger": "Leak at the base of toilet",
+  "priority": "Preventive",
+  "difficulty": 3,
+  "mode": "DIY",
+  "time": "1-2 hrs",
+  "cost": "$10-20",
+  "steps": [
+    "Shut off water, flush to empty the tank, and disconnect the supply line.",
+    "Unbolt the toilet from the floor flange and lift it straight up onto a towel.",
+    "Scrape off the old wax ring completely from both the toilet and the flange.",
+    "Press a new wax ring onto the flange (or the toilet horn) evenly.",
+    "Reset the toilet, press down firmly to seat the wax, then bolt it down and reconnect water."
+  ],
+  "videoTitle": "How to Repair a Leaking Toilet - This Old House",
+  "videoUrl": "https://www.thisoldhouse.com/plumbing/how-to-repair-a-leaking-toilet",
+  "verified": true
+}

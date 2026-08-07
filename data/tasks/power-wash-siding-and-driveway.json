@@ -1,0 +1,22 @@
+{
+  "id": 41,
+  "slug": "power-wash-siding-and-driveway",
+  "category": "Exterior & Roof",
+  "task": "Power wash siding and driveway",
+  "trigger": "Annually",
+  "priority": "Cosmetic",
+  "difficulty": 2,
+  "mode": "DIY or Pro",
+  "time": "2-4 hrs",
+  "cost": "$0-300 (pro)",
+  "steps": [
+    "Cover nearby plants and close windows/vents.",
+    "Use a wide-fan nozzle (25-40 degrees) to avoid gouging siding or wood.",
+    "Work top to bottom on siding, in overlapping passes.",
+    "Keep the nozzle 12+ inches from the surface and test on a hidden spot first.",
+    "For concrete driveways, a narrower nozzle and closer distance is fine for stains."
+  ],
+  "videoTitle": "Search: 'how to pressure wash siding safely'",
+  "videoUrl": "",
+  "verified": false
+}

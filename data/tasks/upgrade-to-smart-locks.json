@@ -1,0 +1,22 @@
+{
+  "id": 99,
+  "slug": "upgrade-to-smart-locks",
+  "category": "Upgrades & Smart Home",
+  "task": "Upgrade to smart locks",
+  "trigger": "Upgrade / security",
+  "priority": "Upgrade",
+  "difficulty": 2,
+  "mode": "DIY",
+  "time": "30-45 min",
+  "cost": "$150-300",
+  "steps": [
+    "Remove the existing deadbolt (unscrew the interior and exterior halves).",
+    "Confirm the door prep (backset, bore hole size) matches the new smart lock's spec sheet.",
+    "Install the new lock's exterior and interior assemblies per the included template.",
+    "Insert batteries and pair with the app or hub.",
+    "Test locking/unlocking manually, by app, and by keypad/code before relying on it."
+  ],
+  "videoTitle": "Search: 'how to install a smart deadbolt lock'",
+  "videoUrl": "",
+  "verified": false
+}

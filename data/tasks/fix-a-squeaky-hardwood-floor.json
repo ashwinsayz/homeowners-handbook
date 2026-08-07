@@ -1,0 +1,22 @@
+{
+  "id": 74,
+  "slug": "fix-a-squeaky-hardwood-floor",
+  "category": "Flooring",
+  "task": "Fix a squeaky hardwood floor",
+  "trigger": "As noticed",
+  "priority": "Cosmetic",
+  "difficulty": 2,
+  "mode": "DIY",
+  "time": "30-60 min",
+  "cost": "$15-25",
+  "steps": [
+    "Locate the exact squeaky board by walking slowly.",
+    "Drill a small pilot hole through the board into the joist below.",
+    "Drive a specialty breakaway screw (e.g., Counter-Snap) until the head snaps off below the surface.",
+    "Fill the tiny hole with a matching color wax filler stick.",
+    "Buff with a soft cloth to blend the repair."
+  ],
+  "videoTitle": "How To Fix Squeaky Floors - This Old House",
+  "videoUrl": "https://www.thisoldhouse.com/flooring/21015195/how-to-fix-squeaky-floors",
+  "verified": true
+}

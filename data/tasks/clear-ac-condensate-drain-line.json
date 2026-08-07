@@ -1,0 +1,22 @@
+{
+  "id": 8,
+  "slug": "clear-ac-condensate-drain-line",
+  "category": "HVAC & Air Quality",
+  "task": "Clear AC condensate drain line",
+  "trigger": "Start of cooling season / if unit leaks",
+  "priority": "Preventive",
+  "difficulty": 2,
+  "mode": "DIY",
+  "time": "20-30 min",
+  "cost": "$5-15",
+  "steps": [
+    "Locate the PVC condensate drain line near the indoor air handler.",
+    "Turn off the AC system.",
+    "Attach a wet/dry vacuum to the outdoor end of the drain line and run it for 1-2 minutes.",
+    "Alternatively, pour a cup of distilled vinegar into the drain access point every few months.",
+    "Confirm water drips from the outdoor line end and check for the pan overflow switch."
+  ],
+  "videoTitle": "Search: 'how to unclog AC condensate drain line'",
+  "videoUrl": "",
+  "verified": false
+}

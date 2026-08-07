@@ -1,0 +1,22 @@
+{
+  "id": 75,
+  "slug": "replace-a-cracked-tile",
+  "category": "Flooring",
+  "task": "Replace a cracked tile",
+  "trigger": "Cracked or chipped floor/wall tile",
+  "priority": "Preventive",
+  "difficulty": 3,
+  "mode": "DIY",
+  "time": "2-3 hrs (+ cure time)",
+  "cost": "$10-20 per tile",
+  "steps": [
+    "Remove grout around the damaged tile with a grout saw.",
+    "Carefully break and chisel out the cracked tile, protecting neighbors.",
+    "Scrape old mortar/adhesive from the subfloor flat.",
+    "Apply new thin-set mortar and press the replacement tile into place, using spacers.",
+    "Let cure, then apply matching grout and seal once fully dry."
+  ],
+  "videoTitle": "Search: 'how to replace a single cracked tile'",
+  "videoUrl": "",
+  "verified": false
+}

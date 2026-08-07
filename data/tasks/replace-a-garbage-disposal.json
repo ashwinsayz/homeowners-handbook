@@ -1,0 +1,22 @@
+{
+  "id": 21,
+  "slug": "replace-a-garbage-disposal",
+  "category": "Plumbing",
+  "task": "Replace a garbage disposal",
+  "trigger": "Motor failure or leak",
+  "priority": "Upgrade",
+  "difficulty": 3,
+  "mode": "DIY",
+  "time": "1-2 hrs",
+  "cost": "$100-250",
+  "steps": [
+    "Turn off power at the breaker and unplug/disconnect the unit.",
+    "Support the disposal, twist the mounting ring to release it, and disconnect drain/dishwasher lines.",
+    "Attach the new disposal's mounting assembly to the sink flange.",
+    "Reconnect the drain trap and dishwasher inlet (knock out the plug if new).",
+    "Restore power and run water while testing the unit."
+  ],
+  "videoTitle": "Garbage Disposal Installation (VIDEO) - This Old House",
+  "videoUrl": "https://www.thisoldhouse.com/kitchens/how-to-install-a-garbage-disposal-3",
+  "verified": true
+}

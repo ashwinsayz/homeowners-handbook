@@ -1,0 +1,22 @@
+{
+  "id": 1,
+  "slug": "replace-hvac-air-filter",
+  "category": "HVAC & Air Quality",
+  "task": "Replace HVAC air filter",
+  "trigger": "Every 1-3 months",
+  "priority": "Preventive",
+  "difficulty": 1,
+  "mode": "DIY",
+  "time": "5 min",
+  "cost": "$10-25",
+  "steps": [
+    "Turn off the HVAC system.",
+    "Locate the filter slot (return air duct or inside the air handler).",
+    "Note the airflow direction arrow on the old filter before removing it.",
+    "Slide in the new filter with the arrow pointing toward the furnace/blower.",
+    "Turn the system back on and write the install date on the filter frame."
+  ],
+  "videoTitle": "How often to change your air filter",
+  "videoUrl": "https://www.thisoldhouse.com/heating-cooling",
+  "verified": false
+}

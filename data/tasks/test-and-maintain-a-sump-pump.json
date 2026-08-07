@@ -1,0 +1,22 @@
+{
+  "id": 24,
+  "slug": "test-and-maintain-a-sump-pump",
+  "category": "Plumbing",
+  "task": "Test and maintain a sump pump",
+  "trigger": "Spring / before storm season",
+  "priority": "Safety-Critical",
+  "difficulty": 2,
+  "mode": "DIY",
+  "time": "20-30 min",
+  "cost": "$0-50",
+  "steps": [
+    "Unplug the pump and remove the pit lid.",
+    "Clean debris from the pit and check the intake screen.",
+    "Pour a bucket of water into the pit and confirm the float triggers the pump.",
+    "Verify the discharge line outside is clear and directs water away from the foundation.",
+    "Test a battery backup pump quarterly if you have one."
+  ],
+  "videoTitle": "How To Prepare and Inspect Your Sump Pump for Spring - This Old House",
+  "videoUrl": "https://www.thisoldhouse.com/basements/21015648/is-your-sump-pump-ready-for-spring",
+  "verified": true
+}

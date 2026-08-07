@@ -1,0 +1,22 @@
+{
+  "id": 35,
+  "slug": "install-a-whole-panel-surge-protector",
+  "category": "Electrical",
+  "task": "Install a whole-panel surge protector",
+  "trigger": "Upgrade / after storm damage",
+  "priority": "Upgrade",
+  "difficulty": 3,
+  "mode": "Pro",
+  "time": "1 hr",
+  "cost": "$150-400 installed",
+  "steps": [
+    "Have a licensed electrician assess your panel's available breaker space.",
+    "The surge protective device (SPD) is installed at the main panel or subpanel.",
+    "It's wired to two breaker slots and grounded to the panel bus.",
+    "Ask about a status indicator light so you know when it needs replacing.",
+    "Pair with point-of-use surge strips for sensitive electronics."
+  ],
+  "videoTitle": "Search: 'whole house surge protector installation'",
+  "videoUrl": "",
+  "verified": false
+}

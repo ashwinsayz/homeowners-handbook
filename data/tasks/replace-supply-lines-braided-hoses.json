@@ -1,0 +1,22 @@
+{
+  "id": 23,
+  "slug": "replace-supply-lines-braided-hoses",
+  "category": "Plumbing",
+  "task": "Replace supply lines (braided hoses)",
+  "trigger": "Preventive / before they bulge or corrode",
+  "priority": "Preventive",
+  "difficulty": 1,
+  "mode": "DIY",
+  "time": "20 min",
+  "cost": "$10-20 per line",
+  "steps": [
+    "Shut off the fixture's supply valves.",
+    "Place a small bucket or towel beneath the connection.",
+    "Unscrew the old supply line from the valve and the fixture.",
+    "Hand-tighten the new braided line, then snug a quarter turn with a wrench.",
+    "Turn water back on and check both ends for drips."
+  ],
+  "videoTitle": "Search: 'how to replace faucet supply lines'",
+  "videoUrl": "",
+  "verified": false
+}

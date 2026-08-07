@@ -1,0 +1,22 @@
+{
+  "id": 50,
+  "slug": "paint-a-room-interior",
+  "category": "Interior & Paint",
+  "task": "Paint a room (interior)",
+  "trigger": "Refresh / upgrade",
+  "priority": "Cosmetic",
+  "difficulty": 2,
+  "mode": "DIY",
+  "time": "1-2 days",
+  "cost": "$150-400",
+  "steps": [
+    "Clear/cover furniture and lay down drop cloths.",
+    "Wash walls, fill any holes, and sand smooth.",
+    "Apply painter's tape to trim, outlets, and ceiling lines.",
+    "Cut in edges with a brush, then roll the main surfaces in a 'W' pattern.",
+    "Apply a second coat after the first dries fully; remove tape at a 45-degree angle."
+  ],
+  "videoTitle": "Search: 'how to paint a room step by step'",
+  "videoUrl": "",
+  "verified": false
+}

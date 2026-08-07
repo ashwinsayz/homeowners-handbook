@@ -1,0 +1,22 @@
+{
+  "id": 42,
+  "slug": "repair-or-replace-damaged-siding",
+  "category": "Exterior & Roof",
+  "task": "Repair or replace damaged siding",
+  "trigger": "Cracked, warped, or storm-damaged panels",
+  "priority": "Preventive",
+  "difficulty": 3,
+  "mode": "DIY or Pro",
+  "time": "1-3 hrs per panel",
+  "cost": "$50-150 per panel",
+  "steps": [
+    "Identify the damaged panel and locate the seam above it.",
+    "Use a zip tool to unhook the panel above from the damaged one.",
+    "Remove nails from the damaged panel and slide it out.",
+    "Cut and fit a matching replacement panel, nailing loosely to allow expansion.",
+    "Re-hook the panel above back into place."
+  ],
+  "videoTitle": "Search: 'how to replace a damaged siding panel'",
+  "videoUrl": "",
+  "verified": false
+}

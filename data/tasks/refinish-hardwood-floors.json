@@ -1,0 +1,22 @@
+{
+  "id": 78,
+  "slug": "refinish-hardwood-floors",
+  "category": "Flooring",
+  "task": "Refinish hardwood floors",
+  "trigger": "Worn finish, deep scratches",
+  "priority": "Upgrade",
+  "difficulty": 4,
+  "mode": "DIY or Pro",
+  "time": "2-4 days",
+  "cost": "$1.50-5/sq ft (pro)",
+  "steps": [
+    "Assess wear - light wear may only need a screen-and-recoat, not full sanding.",
+    "Clear the room fully and remove baseboards if doing edge sanding.",
+    "A drum/orbital sander removes the old finish in progressive grits (36 to 100+).",
+    "Vacuum thoroughly and apply stain (if changing color) followed by 2-3 coats of finish.",
+    "For most homeowners, hiring a pro is recommended - sanding mistakes gouge the wood permanently."
+  ],
+  "videoTitle": "Search: 'DIY vs professional hardwood floor refinishing'",
+  "videoUrl": "",
+  "verified": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 55,
+  "slug": "fix-a-sticking-interior-door",
+  "category": "Interior & Paint",
+  "task": "Fix a sticking interior door",
+  "trigger": "Door drags or won't latch",
+  "priority": "Cosmetic",
+  "difficulty": 2,
+  "mode": "DIY",
+  "time": "20-40 min",
+  "cost": "$0-15",
+  "steps": [
+    "Check hinge screws first - tighten any that are loose.",
+    "Look for shiny rub marks on the door or frame to find the sticking point.",
+    "For minor rubbing, sand the high spot lightly and repaint/reseal the edge.",
+    "If it's a strike-plate alignment issue, adjust the plate or shim the hinge.",
+    "Lubricate hinges with silicone spray for smooth operation."
+  ],
+  "videoTitle": "Search: 'how to fix a sticking door hinges and strike plate'",
+  "videoUrl": "",
+  "verified": false
+}

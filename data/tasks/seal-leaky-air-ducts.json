@@ -1,0 +1,22 @@
+{
+  "id": 6,
+  "slug": "seal-leaky-air-ducts",
+  "category": "HVAC & Air Quality",
+  "task": "Seal leaky air ducts",
+  "trigger": "As needed / energy audit finding",
+  "priority": "Preventive",
+  "difficulty": 3,
+  "mode": "DIY or Pro",
+  "time": "2-4 hrs",
+  "cost": "$50-300",
+  "steps": [
+    "Inspect accessible ducts in the attic, basement, or crawlspace for gaps at joints.",
+    "Clean the duct surface where you'll apply sealant.",
+    "Seal seams with mastic sealant or foil (UL-181) tape - never cloth duct tape.",
+    "Insulate ducts running through unconditioned spaces.",
+    "For hidden/hard-to-reach ducts, hire a pro for a duct-sealing service (aeroseal)."
+  ],
+  "videoTitle": "Search: 'how to seal air ducts DIY'",
+  "videoUrl": "",
+  "verified": false
+}

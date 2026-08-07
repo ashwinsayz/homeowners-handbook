@@ -1,0 +1,22 @@
+{
+  "id": 68,
+  "slug": "fix-a-door-that-won-t-latch",
+  "category": "Doors, Windows & Weatherproofing",
+  "task": "Fix a door that won't latch",
+  "trigger": "Strike plate misalignment",
+  "priority": "Cosmetic",
+  "difficulty": 1,
+  "mode": "DIY",
+  "time": "15-20 min",
+  "cost": "$0-5",
+  "steps": [
+    "Close the door slowly and note where the latch hits the strike plate.",
+    "If it's slightly off, file the strike plate opening larger with a metal file.",
+    "If it's significantly off (door has settled/sagged), loosen the top hinge screws and add a shim.",
+    "Adjust the strike plate position by re-drilling slightly if needed.",
+    "Test the latch several times after adjustment."
+  ],
+  "videoTitle": "Search: 'how to fix a door that wont latch strike plate'",
+  "videoUrl": "",
+  "verified": false
+}

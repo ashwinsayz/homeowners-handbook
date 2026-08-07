@@ -1,0 +1,22 @@
+{
+  "id": 5,
+  "slug": "clean-bathroom-exhaust-fan",
+  "category": "HVAC & Air Quality",
+  "task": "Clean bathroom exhaust fan",
+  "trigger": "Every 6 months",
+  "priority": "Preventive",
+  "difficulty": 1,
+  "mode": "DIY",
+  "time": "20 min",
+  "cost": "$0",
+  "steps": [
+    "Turn off power at the switch/breaker.",
+    "Remove the fan grille (usually spring-clipped or screwed).",
+    "Vacuum dust from the fan blades and housing.",
+    "Wash the grille in warm soapy water and let it dry.",
+    "Reattach the grille and test the fan."
+  ],
+  "videoTitle": "Search: 'how to clean a bathroom exhaust fan'",
+  "videoUrl": "",
+  "verified": false
+}

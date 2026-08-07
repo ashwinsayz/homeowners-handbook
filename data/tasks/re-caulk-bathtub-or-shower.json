@@ -1,0 +1,22 @@
+{
+  "id": 49,
+  "slug": "re-caulk-bathtub-or-shower",
+  "category": "Interior & Paint",
+  "task": "Re-caulk bathtub or shower",
+  "trigger": "Cracked, moldy, or gapped caulk",
+  "priority": "Preventive",
+  "difficulty": 2,
+  "mode": "DIY",
+  "time": "1-2 hrs (+ cure time)",
+  "cost": "$10-20",
+  "steps": [
+    "Score along both edges of the old caulk with a utility knife, then scrape it out.",
+    "Clean the area with rubbing alcohol or a mold-killing cleaner and let dry fully.",
+    "Apply painter's tape above and below the gap for a clean line.",
+    "Run a steady bead of 100% silicone caulk, then smooth with a wet finger.",
+    "Remove the tape while wet; avoid water contact for 24 hours to cure."
+  ],
+  "videoTitle": "How to Caulk Around a Bathtub | Ask This Old House",
+  "videoUrl": "https://www.youtube.com/watch?v=AcgErpZ_D0c",
+  "verified": true
+}

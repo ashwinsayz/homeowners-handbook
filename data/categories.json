@@ -1,0 +1,46 @@
+{
+  "HVAC & Air Quality": {
+    "code": "HVAC",
+    "blurb": "Heating, cooling & ventilation"
+  },
+  "Plumbing": {
+    "code": "PLMB",
+    "blurb": "Pipes, fixtures & water systems"
+  },
+  "Electrical": {
+    "code": "ELEC",
+    "blurb": "Outlets, wiring & panels"
+  },
+  "Exterior & Roof": {
+    "code": "EXT",
+    "blurb": "Roof, gutters & siding"
+  },
+  "Interior & Paint": {
+    "code": "INT",
+    "blurb": "Walls, trim & finishes"
+  },
+  "Appliances": {
+    "code": "APPL",
+    "blurb": "Kitchen & laundry machines"
+  },
+  "Doors, Windows & Weatherproofing": {
+    "code": "DRWN",
+    "blurb": "Seals, hardware & drafts"
+  },
+  "Flooring": {
+    "code": "FLR",
+    "blurb": "Wood, tile & carpet"
+  },
+  "Safety & Detectors": {
+    "code": "SAFE",
+    "blurb": "Alarms & emergency prep"
+  },
+  "Outdoor & Deck": {
+    "code": "YARD",
+    "blurb": "Deck, lawn & drainage"
+  },
+  "Upgrades & Smart Home": {
+    "code": "SMRT",
+    "blurb": "Connected-home projects"
+  }
+}

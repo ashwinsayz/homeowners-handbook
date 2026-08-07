@@ -1,0 +1,22 @@
+{
+  "id": 15,
+  "slug": "install-a-new-toilet",
+  "category": "Plumbing",
+  "task": "Install a new toilet",
+  "trigger": "Old fixture, upgrade, or crack",
+  "priority": "Upgrade",
+  "difficulty": 3,
+  "mode": "DIY",
+  "time": "2-3 hrs",
+  "cost": "$150-500",
+  "steps": [
+    "Shut off the water supply and drain the tank/bowl with a plunger and sponge.",
+    "Disconnect the supply line and unbolt the old toilet from the floor flange.",
+    "Remove the old wax ring and clean the flange thoroughly.",
+    "Set a new wax ring, lower the new toilet straight down, and bolt it in place.",
+    "Reconnect the supply line, turn on water, and check for leaks at the base."
+  ],
+  "videoTitle": "How to Repair a Leaking Toilet - This Old House",
+  "videoUrl": "https://www.thisoldhouse.com/plumbing/how-to-repair-a-leaking-toilet",
+  "verified": true
+}

@@ -1,0 +1,22 @@
+{
+  "id": 81,
+  "slug": "test-and-replace-smoke-detectors",
+  "category": "Safety & Detectors",
+  "task": "Test and replace smoke detectors",
+  "trigger": "Test monthly, replace every 10 years",
+  "priority": "Safety-Critical",
+  "difficulty": 1,
+  "mode": "DIY",
+  "time": "10 min per unit",
+  "cost": "$15-30 per unit",
+  "steps": [
+    "Press the test button on each unit; all interconnected alarms should sound.",
+    "Check the manufacture date sticker - replace the whole unit if 10+ years old.",
+    "Vacuum dust from the vents to prevent false alarms/reduced sensitivity.",
+    "Replace batteries (non-hardwired models) every 6-12 months.",
+    "Keep at least one detector per level and inside/outside each sleeping area."
+  ],
+  "videoTitle": "How to Install a Hard Wired Smoke Detector - Family Handyman",
+  "videoUrl": "https://www.familyhandyman.com/project/install-new-hard-wired-or-battery-powered-smoke-alarms/",
+  "verified": true
+}

@@ -1,0 +1,22 @@
+{
+  "id": 25,
+  "slug": "flush-water-heater-sediment",
+  "category": "Plumbing",
+  "task": "Flush water heater sediment",
+  "trigger": "Annually",
+  "priority": "Preventive",
+  "difficulty": 2,
+  "mode": "DIY",
+  "time": "45-60 min",
+  "cost": "$0-20",
+  "steps": [
+    "Turn off power (electric) or set gas valve to pilot.",
+    "Shut the cold water inlet valve and connect a hose to the drain valve, routed outside or to a drain.",
+    "Open a hot water faucet in the house to break the vacuum, then open the drain valve.",
+    "Let the tank drain fully until water runs clear; briefly open the cold inlet to stir remaining sediment.",
+    "Close the drain valve, remove the hose, refill the tank, then restore power/gas."
+  ],
+  "videoTitle": "Guide to Draining and Flushing an Electric Water Heater - This Old House",
+  "videoUrl": "https://www.thisoldhouse.com/plumbing/draining-flushing-an-electric-water-heater",
+  "verified": true
+}

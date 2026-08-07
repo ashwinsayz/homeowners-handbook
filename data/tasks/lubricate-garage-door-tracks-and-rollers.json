@@ -1,0 +1,22 @@
+{
+  "id": 73,
+  "slug": "lubricate-garage-door-tracks-and-rollers",
+  "category": "Doors, Windows & Weatherproofing",
+  "task": "Lubricate garage door tracks and rollers",
+  "trigger": "Every 6 months",
+  "priority": "Preventive",
+  "difficulty": 1,
+  "mode": "DIY",
+  "time": "15-20 min",
+  "cost": "$10",
+  "steps": [
+    "Disconnect the opener or ensure the door is closed and unpowered.",
+    "Wipe down the tracks with a rag to remove dirt/grease buildup.",
+    "Apply a silicone-based lubricant to rollers, hinges, and the top of the springs.",
+    "Avoid lubricating the tracks themselves - only the rollers and moving hardware.",
+    "Open and close the door manually a few times to work in the lubricant."
+  ],
+  "videoTitle": "Search: 'how to lubricate a garage door'",
+  "videoUrl": "",
+  "verified": false
+}

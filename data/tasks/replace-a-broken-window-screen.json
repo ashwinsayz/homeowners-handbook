@@ -1,0 +1,22 @@
+{
+  "id": 70,
+  "slug": "replace-a-broken-window-screen",
+  "category": "Doors, Windows & Weatherproofing",
+  "task": "Replace a broken window screen",
+  "trigger": "Torn or damaged screen",
+  "priority": "Cosmetic",
+  "difficulty": 2,
+  "mode": "DIY",
+  "time": "30-45 min",
+  "cost": "$15-30",
+  "steps": [
+    "Remove the screen frame from the window.",
+    "Pry out the old spline (rubber cord) holding the mesh in the frame groove.",
+    "Lay new screen mesh over the frame and press a new spline into the groove with a roller tool.",
+    "Trim excess mesh with a utility knife.",
+    "Reinstall the frame into the window."
+  ],
+  "videoTitle": "Search: 'how to rescreen a window with new spline'",
+  "videoUrl": "",
+  "verified": false
+}

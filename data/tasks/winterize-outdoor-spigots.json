@@ -1,0 +1,22 @@
+{
+  "id": 20,
+  "slug": "winterize-outdoor-spigots",
+  "category": "Plumbing",
+  "task": "Winterize outdoor spigots",
+  "trigger": "Before first freeze",
+  "priority": "Safety-Critical",
+  "difficulty": 1,
+  "mode": "DIY",
+  "time": "15 min",
+  "cost": "$5-15",
+  "steps": [
+    "Disconnect and drain all garden hoses.",
+    "Shut off the interior shutoff valve for the outdoor spigot, if present.",
+    "Open the outdoor spigot to drain remaining water, then leave it open.",
+    "Install a foam spigot cover over the faucet for extra insulation.",
+    "For spigots without an interior shutoff, install a frost-free hose bib."
+  ],
+  "videoTitle": "Search: 'how to winterize outdoor faucets'",
+  "videoUrl": "",
+  "verified": false
+}

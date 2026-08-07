@@ -1,0 +1,22 @@
+{
+  "id": 9,
+  "slug": "add-attic-duct-insulation",
+  "category": "HVAC & Air Quality",
+  "task": "Add attic/duct insulation",
+  "trigger": "As part of energy-efficiency upgrade",
+  "priority": "Upgrade",
+  "difficulty": 3,
+  "mode": "DIY or Pro",
+  "time": "Half day+",
+  "cost": "$300-1,500",
+  "steps": [
+    "Check current insulation depth against your region's recommended R-value.",
+    "Air-seal attic penetrations (can lights, plumbing stacks) before adding insulation.",
+    "Choose batt, blown-in, or spray foam based on attic access and budget.",
+    "Wear a respirator, gloves, and coveralls; lay boards to walk on joists safely.",
+    "Layer new insulation perpendicular to existing for full coverage; leave soffit vents clear."
+  ],
+  "videoTitle": "Search: 'how to insulate an attic DIY'",
+  "videoUrl": "",
+  "verified": false
+}

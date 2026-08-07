@@ -1,0 +1,22 @@
+{
+  "id": 71,
+  "slug": "install-a-door-draft-stopper-sweep",
+  "category": "Doors, Windows & Weatherproofing",
+  "task": "Install a door draft stopper/sweep",
+  "trigger": "Drafts under exterior doors",
+  "priority": "Preventive",
+  "difficulty": 1,
+  "mode": "DIY",
+  "time": "15-20 min",
+  "cost": "$10-20",
+  "steps": [
+    "Measure the width of the door bottom.",
+    "Cut the door sweep to size if needed with a hacksaw.",
+    "Close the door and hold the sweep in place to mark screw positions.",
+    "Drill pilot holes and screw the sweep to the bottom of the door.",
+    "Test that the door still opens/closes smoothly and seals the gap."
+  ],
+  "videoTitle": "Search: 'how to install a door sweep draft stopper'",
+  "videoUrl": "",
+  "verified": false
+}

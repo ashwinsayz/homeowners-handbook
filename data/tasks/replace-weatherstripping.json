@@ -1,0 +1,22 @@
+{
+  "id": 66,
+  "slug": "replace-weatherstripping",
+  "category": "Doors, Windows & Weatherproofing",
+  "task": "Replace weatherstripping",
+  "trigger": "Drafts noticed / annually check",
+  "priority": "Preventive",
+  "difficulty": 1,
+  "mode": "DIY",
+  "time": "30-45 min per door/window",
+  "cost": "$10-20",
+  "steps": [
+    "Remove old weatherstripping by peeling or prying it off.",
+    "Clean the frame surface of old adhesive residue.",
+    "Measure and cut new weatherstripping to length.",
+    "Press the new strip firmly into place (peel-and-stick or nail-in, depending on type).",
+    "Close the door/window and check for a snug, draft-free seal."
+  ],
+  "videoTitle": "Search: 'how to replace door and window weatherstripping'",
+  "videoUrl": "",
+  "verified": false
+}

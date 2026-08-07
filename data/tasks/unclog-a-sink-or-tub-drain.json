@@ -1,0 +1,22 @@
+{
+  "id": 12,
+  "slug": "unclog-a-sink-or-tub-drain",
+  "category": "Plumbing",
+  "task": "Unclog a sink or tub drain",
+  "trigger": "As needed",
+  "priority": "Preventive",
+  "difficulty": 1,
+  "mode": "DIY",
+  "time": "15-30 min",
+  "cost": "$0-15",
+  "steps": [
+    "Remove the stopper and pull out visible hair/gunk by hand.",
+    "Try a plunger with the overflow hole covered for a tight seal.",
+    "If still clogged, remove the P-trap under the sink and clear it into a bucket.",
+    "Use a hand-crank drain auger/snake for anything deeper in the line.",
+    "Avoid chemical drain cleaners; they can damage pipes and are a plumber safety hazard."
+  ],
+  "videoTitle": "How to Clear Clogged Drains - Family Handyman",
+  "videoUrl": "https://www.familyhandyman.com/project/how-to-clear-clogged-drains/",
+  "verified": true
+}

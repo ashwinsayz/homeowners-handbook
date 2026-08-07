@@ -1,0 +1,22 @@
+{
+  "id": 52,
+  "slug": "repair-a-popcorn-ceiling-spot",
+  "category": "Interior & Paint",
+  "task": "Repair a popcorn ceiling spot",
+  "trigger": "Water stain or damage",
+  "priority": "Cosmetic",
+  "difficulty": 3,
+  "mode": "DIY",
+  "time": "1-2 hrs",
+  "cost": "$15-25",
+  "steps": [
+    "Fix the underlying cause first (usually a leak) before patching.",
+    "Lightly mist the damaged texture area with water and scrape it off.",
+    "Apply joint compound to smooth the area, feathering the edges.",
+    "Once dry and sanded, use a popcorn-texture spray to match the surrounding ceiling.",
+    "Prime and paint the patched area if it doesn't blend after texturing."
+  ],
+  "videoTitle": "Search: 'how to repair popcorn ceiling water stain'",
+  "videoUrl": "",
+  "verified": false
+}

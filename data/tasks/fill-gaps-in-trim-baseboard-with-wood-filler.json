@@ -1,0 +1,22 @@
+{
+  "id": 53,
+  "slug": "fill-gaps-in-trim-baseboard-with-wood-filler",
+  "category": "Interior & Paint",
+  "task": "Fill gaps in trim/baseboard with wood filler",
+  "trigger": "Gaps at seams and corners",
+  "priority": "Cosmetic",
+  "difficulty": 1,
+  "mode": "DIY",
+  "time": "30 min",
+  "cost": "$5-10",
+  "steps": [
+    "Clean dust from the gap.",
+    "Apply paintable caulk (for wall-to-trim gaps) or wood filler (for wood-to-wood gaps).",
+    "Smooth with a finger or putty knife.",
+    "Let cure, then lightly sand wood filler flush.",
+    "Prime and paint to match."
+  ],
+  "videoTitle": "Search: 'how to fill baseboard gaps with caulk'",
+  "videoUrl": "",
+  "verified": false
+}

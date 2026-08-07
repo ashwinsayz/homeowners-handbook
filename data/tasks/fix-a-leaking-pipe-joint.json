@@ -1,0 +1,22 @@
+{
+  "id": 16,
+  "slug": "fix-a-leaking-pipe-joint",
+  "category": "Plumbing",
+  "task": "Fix a leaking pipe joint",
+  "trigger": "Emergency / active leak",
+  "priority": "Safety-Critical",
+  "difficulty": 3,
+  "mode": "DIY or Pro",
+  "time": "30-90 min",
+  "cost": "$15-100",
+  "steps": [
+    "Shut off the main water supply immediately.",
+    "Dry the pipe and identify whether the leak is at a joint, fitting, or pinhole.",
+    "For a quick stop-gap, use a pipe repair clamp or epoxy putty rated for water lines.",
+    "For a permanent fix on copper/PVC, cut out and re-solder or re-glue the section.",
+    "If it's inside a wall or the damage is extensive, call a licensed plumber."
+  ],
+  "videoTitle": "Search: 'how to fix a leaking pipe joint'",
+  "videoUrl": "",
+  "verified": false
+}

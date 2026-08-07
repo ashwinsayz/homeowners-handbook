@@ -1,0 +1,22 @@
+{
+  "id": 96,
+  "slug": "install-a-smart-thermostat",
+  "category": "Upgrades & Smart Home",
+  "task": "Install a smart thermostat",
+  "trigger": "Upgrade",
+  "priority": "Upgrade",
+  "difficulty": 2,
+  "mode": "DIY",
+  "time": "1-2 hrs",
+  "cost": "$130-280",
+  "steps": [
+    "Turn off power to the HVAC system at the breaker.",
+    "Label existing thermostat wires with a photo before disconnecting.",
+    "Mount the new base plate and connect wires to matching terminals.",
+    "Use a C-wire adapter if your system lacks a common wire.",
+    "Restore power and complete setup through the manufacturer's app."
+  ],
+  "videoTitle": "How to Install a Smart Thermostat - This Old House",
+  "videoUrl": "https://www.thisoldhouse.com/smart-homes/21017259/how-to-install-a-smart-thermostat",
+  "verified": true
+}

@@ -1,0 +1,22 @@
+{
+  "id": 62,
+  "slug": "deep-clean-an-oven",
+  "category": "Appliances",
+  "task": "Deep clean an oven",
+  "trigger": "Every few months",
+  "priority": "Preventive",
+  "difficulty": 1,
+  "mode": "DIY",
+  "time": "1-3 hrs (+ overnight for some methods)",
+  "cost": "$0-15",
+  "steps": [
+    "Remove racks and soak them separately in soapy water.",
+    "For self-clean ovens, run the cycle per the manual (ventilate the kitchen).",
+    "For manual cleaning, apply a baking-soda paste to grime and let sit overnight.",
+    "Wipe out residue with a damp cloth and finish with a vinegar spray to cut remaining film.",
+    "Clean the door glass and reinstall racks once dry."
+  ],
+  "videoTitle": "Search: 'how to deep clean an oven without harsh chemicals'",
+  "videoUrl": "",
+  "verified": false
+}

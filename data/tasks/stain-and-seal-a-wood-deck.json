@@ -1,0 +1,22 @@
+{
+  "id": 86,
+  "slug": "stain-and-seal-a-wood-deck",
+  "category": "Outdoor & Deck",
+  "task": "Stain and seal a wood deck",
+  "trigger": "Every 2-3 years",
+  "priority": "Preventive",
+  "difficulty": 3,
+  "mode": "DIY or Pro",
+  "time": "1-2 days (+ dry time)",
+  "cost": "$150-400 (materials)",
+  "steps": [
+    "Clear the deck and sweep off debris.",
+    "Wash with a deck cleaner and, if needed, sand rough or splintered boards.",
+    "Rinse thoroughly and let the deck dry for at least 24-48 hours.",
+    "Apply stain with a brush, roller, or sprayer, working with the wood grain.",
+    "Let the first coat dry, then apply a second coat if the label recommends it."
+  ],
+  "videoTitle": "How To Restain a Deck - This Old House",
+  "videoUrl": "https://www.thisoldhouse.com/painting/21124785/how-to-re-stain-a-deck",
+  "verified": true
+}

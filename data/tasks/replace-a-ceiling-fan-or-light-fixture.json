@@ -1,0 +1,22 @@
+{
+  "id": 30,
+  "slug": "replace-a-ceiling-fan-or-light-fixture",
+  "category": "Electrical",
+  "task": "Replace a ceiling fan or light fixture",
+  "trigger": "Upgrade or fixture failure",
+  "priority": "Upgrade",
+  "difficulty": 3,
+  "mode": "DIY",
+  "time": "1-2 hrs",
+  "cost": "$50-300",
+  "steps": [
+    "Turn off power at the breaker and confirm with a tester.",
+    "Support the old fixture while removing mounting screws, then disconnect wires.",
+    "Verify the electrical box is fan-rated if installing a ceiling fan.",
+    "Connect new fixture wires by color match, then secure the mounting bracket.",
+    "Attach the fixture/fan body, restore power, and test all settings."
+  ],
+  "videoTitle": "Search: 'how to install a ceiling fan replace light fixture'",
+  "videoUrl": "",
+  "verified": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 31,
+  "slug": "install-a-dimmer-switch",
+  "category": "Electrical",
+  "task": "Install a dimmer switch",
+  "trigger": "Upgrade",
+  "priority": "Upgrade",
+  "difficulty": 2,
+  "mode": "DIY",
+  "time": "20-30 min",
+  "cost": "$15-40",
+  "steps": [
+    "Turn off power at the breaker and test with a voltage tester.",
+    "Confirm the dimmer is rated for your bulb type (LED-compatible dimmers exist).",
+    "Remove the old switch and note wire positions.",
+    "Wire the dimmer to match (some have a ground pigtail to connect).",
+    "Mount, cover, restore power, and test the dimming range."
+  ],
+  "videoTitle": "Search: 'how to install a dimmer switch'",
+  "videoUrl": "",
+  "verified": false
+}

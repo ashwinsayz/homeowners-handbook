@@ -1,0 +1,22 @@
+{
+  "id": 83,
+  "slug": "check-fire-extinguisher-and-service-date",
+  "category": "Safety & Detectors",
+  "task": "Check fire extinguisher and service date",
+  "trigger": "Every 6 months",
+  "priority": "Safety-Critical",
+  "difficulty": 1,
+  "mode": "DIY",
+  "time": "5 min",
+  "cost": "$0 (or $30-50 to replace)",
+  "steps": [
+    "Check the pressure gauge - the needle should be in the green zone.",
+    "Inspect the pin and tamper seal to confirm it hasn't been used or discharged.",
+    "Look for corrosion, dents, or a damaged hose.",
+    "Shake dry-chemical extinguishers monthly to prevent the powder from settling/caking.",
+    "Replace or professionally service per the tag date, generally every 6-12 years."
+  ],
+  "videoTitle": "Search: 'how to inspect a home fire extinguisher'",
+  "videoUrl": "",
+  "verified": false
+}

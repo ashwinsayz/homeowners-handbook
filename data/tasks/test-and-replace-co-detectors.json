@@ -1,0 +1,22 @@
+{
+  "id": 82,
+  "slug": "test-and-replace-co-detectors",
+  "category": "Safety & Detectors",
+  "task": "Test and replace CO detectors",
+  "trigger": "Test monthly, replace every 5-7 years",
+  "priority": "Safety-Critical",
+  "difficulty": 1,
+  "mode": "DIY",
+  "time": "10 min per unit",
+  "cost": "$20-40 per unit",
+  "steps": [
+    "Press the test button and confirm the alarm sounds.",
+    "Check the expiration date printed on the unit - CO sensors degrade over time.",
+    "Install one on each level and near sleeping areas, at knee-to-chest height (CO mixes with air).",
+    "Replace batteries per manufacturer schedule.",
+    "If an alarm ever sounds, leave the house immediately and call for help from outside."
+  ],
+  "videoTitle": "How to Install Smoke and Carbon Monoxide Detectors - This Old House",
+  "videoUrl": "https://www.thisoldhouse.com/home-safety/how-to-install-smoke-and-carbon-monoxide-detectors",
+  "verified": true
+}

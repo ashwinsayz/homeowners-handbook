@@ -1,0 +1,22 @@
+{
+  "id": 2,
+  "slug": "clean-ac-condenser-outdoor-unit",
+  "category": "HVAC & Air Quality",
+  "task": "Clean AC condenser (outdoor unit)",
+  "trigger": "Spring, before cooling season",
+  "priority": "Preventive",
+  "difficulty": 2,
+  "mode": "DIY",
+  "time": "30-45 min",
+  "cost": "$0-15",
+  "steps": [
+    "Shut off power at the outdoor disconnect and breaker.",
+    "Remove leaves, grass clippings, and debris from around and inside the fins.",
+    "Gently rinse the fins from the inside out with a garden hose (low pressure).",
+    "Straighten bent fins carefully with a fin comb.",
+    "Trim back plants/shrubs to keep 2 ft of clearance on all sides."
+  ],
+  "videoTitle": "Search: 'how to clean an AC condenser unit'",
+  "videoUrl": "",
+  "verified": false
+}

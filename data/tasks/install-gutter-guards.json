@@ -1,0 +1,22 @@
+{
+  "id": 37,
+  "slug": "install-gutter-guards",
+  "category": "Exterior & Roof",
+  "task": "Install gutter guards",
+  "trigger": "After cleaning, to reduce future clogs",
+  "priority": "Upgrade",
+  "difficulty": 2,
+  "mode": "DIY or Pro",
+  "time": "2-4 hrs",
+  "cost": "$150-600 (materials)",
+  "steps": [
+    "Clean the gutters thoroughly before installing guards.",
+    "Measure gutter length and choose a guard type (mesh, foam, reverse-curve).",
+    "Cut guard sections to length with tin snips.",
+    "Snap or screw guards into place along the gutter's outer and inner lip.",
+    "Test with a hose to confirm water still flows into the gutter, not over it."
+  ],
+  "videoTitle": "Search: 'how to install gutter guards'",
+  "videoUrl": "",
+  "verified": false
+}

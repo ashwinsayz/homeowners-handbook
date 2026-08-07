@@ -401,6 +401,19 @@ def build_task_pages(tasks, out_dir):
         )
 
         steps_html = "\n            ".join(f"<li><p>{esc(s)}</p></li>" for s in t["steps"])
+
+        pro_questions = t.get("pro_questions", [])
+        if pro_questions:
+            items = "\n            ".join(f"<li>{esc(q)}</li>" for q in pro_questions)
+            pro_questions_html = f"""<div class="pro-questions">
+          <div class="pq-label mono">Questions to ask your pro</div>
+          <ul class="pro-q-list">
+            {items}
+          </ul>
+        </div>"""
+        else:
+            pro_questions_html = ""
+
         cat_slug = slugify(t["category"])
 
         body = f"""{header_nav(path)}
@@ -435,6 +448,7 @@ def build_task_pages(tasks, out_dir):
           <ol class="steps-list">
             {steps_html}
           </ol>
+        {pro_questions_html}
         </div>
         <div class="side-panel">
           <div class="video-box">

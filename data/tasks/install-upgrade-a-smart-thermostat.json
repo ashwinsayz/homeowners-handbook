@@ -16,6 +16,20 @@
     "Connect wires to matching terminals (check for a C-wire; use an adapter kit if missing).",
     "Restore power, attach the thermostat, and follow the app setup."
   ],
+  "materials": [
+    {
+      "name": "Smart thermostat",
+      "url": "https://www.amazon.com/s?k=smart+thermostat"
+    },
+    {
+      "name": "Wire labels",
+      "url": "https://www.amazon.com/s?k=wire+labels"
+    },
+    {
+      "name": "Needle-nose pliers",
+      "url": "https://www.amazon.com/s?k=needle+nose+pliers"
+    }
+  ],
   "videoTitle": "How to Install a Smart Thermostat - This Old House",
   "videoUrl": "https://www.lowes.com/n/how-to/how-to-install-a-programmable-thermostat",
   "verified": true

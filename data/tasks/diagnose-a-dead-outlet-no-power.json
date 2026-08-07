@@ -16,6 +16,16 @@
     "Turn off power and check for a loose wire connection at the dead outlet.",
     "If wiring looks fine and power is confirmed off elsewhere, call an electrician to check for a break in the line."
   ],
+  "materials": [
+    {
+      "name": "Non-contact voltage tester",
+      "url": "https://www.amazon.com/s?k=non-contact+voltage+tester"
+    },
+    {
+      "name": "Outlet tester plug",
+      "url": "https://www.amazon.com/s?k=outlet+tester+plug"
+    }
+  ],
   "videoTitle": "Search: 'outlet not working troubleshooting no power'",
   "videoUrl": "https://www.youtube.com/results?search_query=how+to+diagnose+dead+electrical+outlet+no+power",
   "verified": false

@@ -16,6 +16,20 @@
     "Press a new wax ring onto the flange (or the toilet horn) evenly.",
     "Reset the toilet, press down firmly to seat the wax, then bolt it down and reconnect water."
   ],
+  "materials": [
+    {
+      "name": "Wax ring with horn",
+      "url": "https://www.homedepot.com/s/wax%20ring%20with%20horn"
+    },
+    {
+      "name": "Toilet supply line",
+      "url": "https://www.lowes.com/search?searchTerm=toilet+supply+line"
+    },
+    {
+      "name": "Rubber gloves",
+      "url": "https://www.amazon.com/s?k=rubber+gloves"
+    }
+  ],
   "videoTitle": "How to Repair a Leaking Toilet - This Old House",
   "videoUrl": "https://www.familyhandyman.com/project/how-to-replace-a-toilet-wax-ring/",
   "verified": true

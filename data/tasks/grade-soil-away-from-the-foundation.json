@@ -24,6 +24,20 @@
     "Will this grading affect my landscaping or existing plants, and how will you protect them?",
     "How long until the new grade settles, and will I likely need a follow-up pass?"
   ],
+  "materials": [
+    {
+      "name": "Topsoil/fill dirt",
+      "url": "https://www.homedepot.com/s/topsoil%20fill%20dirt"
+    },
+    {
+      "name": "Landscaping rake",
+      "url": "https://www.amazon.com/s?k=landscaping+rake"
+    },
+    {
+      "name": "Sod or seed",
+      "url": "https://www.lowes.com/search?searchTerm=sod+grass+seed"
+    }
+  ],
   "videoTitle": "Search: 'how to grade soil away from house foundation'",
   "videoUrl": "https://www.bhg.com/home-improvement/advice/grading-around-house-foundation/",
   "verified": false

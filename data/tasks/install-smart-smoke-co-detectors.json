@@ -25,6 +25,20 @@
     "What is the battery backup duration in a power outage?",
     "What is the useful lifespan and when will I need to replace the sensors?"
   ],
+  "materials": [
+    {
+      "name": "Smart smoke and CO detector",
+      "url": "https://www.amazon.com/s?k=smart+smoke+CO+detector"
+    },
+    {
+      "name": "Drill and drill bits",
+      "url": "https://www.amazon.com/s?k=drill+and+drill+bits+set"
+    },
+    {
+      "name": "Wire connectors",
+      "url": "https://www.homedepot.com/s/wire%20connectors"
+    }
+  ],
   "videoTitle": "How to Install Smart Smoke and CO Detectors - This Old House",
   "videoUrl": "https://www.bhg.com/home-improvement/advice/home-safety/smoke-detector-placement-guide/",
   "verified": true

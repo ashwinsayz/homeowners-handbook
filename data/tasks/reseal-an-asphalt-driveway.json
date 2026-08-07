@@ -24,6 +24,20 @@
     "How long must I stay off the driveway before driving on it?",
     "How many years should this sealing job last, and what is your workmanship warranty?"
   ],
+  "materials": [
+    {
+      "name": "Driveway sealer",
+      "url": "https://www.homedepot.com/s/driveway%20sealer"
+    },
+    {
+      "name": "Crack filler",
+      "url": "https://www.homedepot.com/s/asphalt%20crack%20filler"
+    },
+    {
+      "name": "Squeegee applicator",
+      "url": "https://www.homedepot.com/s/squeegee%20applicator"
+    }
+  ],
   "videoTitle": "Search: 'how to seal coat an asphalt driveway'",
   "videoUrl": "https://www.bobvila.com/articles/how-to-seal-a-driveway/",
   "verified": false

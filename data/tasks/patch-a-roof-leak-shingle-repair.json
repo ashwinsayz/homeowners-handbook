@@ -25,6 +25,24 @@
     "Does the repair come with a workmanship warranty, and for how long?",
     "Should I file a homeowner's insurance claim for this damage, or would that affect my rates?"
   ],
+  "materials": [
+    {
+      "name": "Roofing cement",
+      "url": "https://www.homedepot.com/s/roofing%20cement"
+    },
+    {
+      "name": "Replacement shingles",
+      "url": "https://www.homedepot.com/s/replacement%20shingles"
+    },
+    {
+      "name": "Roofing nails",
+      "url": "https://www.homedepot.com/s/roofing%20nails"
+    },
+    {
+      "name": "Pry bar",
+      "url": "https://www.homedepot.com/s/pry%20bar"
+    }
+  ],
   "videoTitle": "Search: 'roof shingle leak repair process'",
   "videoUrl": "https://www.bobvila.com/articles/how-to-fix-a-roof-leak/",
   "verified": false

@@ -25,6 +25,24 @@
     "How long before the new grass is established enough to mow?",
     "What germination rate should I expect, and what is your policy if results are poor?"
   ],
+  "materials": [
+    {
+      "name": "Grass seed",
+      "url": "https://www.amazon.com/s?k=grass+seed"
+    },
+    {
+      "name": "Lawn aerator rental",
+      "url": "https://www.lowes.com/search?searchTerm=lawn+aerator+rental"
+    },
+    {
+      "name": "Starter fertilizer",
+      "url": "https://www.amazon.com/s?k=starter+fertilizer"
+    },
+    {
+      "name": "Garden rake",
+      "url": "https://www.amazon.com/s?k=garden+rake"
+    }
+  ],
   "videoTitle": "Search: 'how to aerate and overseed a lawn'",
   "videoUrl": "https://www.bobvila.com/articles/how-to-aerate-a-lawn/",
   "verified": false

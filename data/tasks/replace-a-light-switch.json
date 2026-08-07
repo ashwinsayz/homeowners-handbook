@@ -16,6 +16,24 @@
     "Connect wires to the new switch matching the same terminals.",
     "Screw the switch into the box, replace the plate, and restore power to test."
   ],
+  "materials": [
+    {
+      "name": "Light switch",
+      "url": "https://www.homedepot.com/s/light%20switch"
+    },
+    {
+      "name": "Wire stripper",
+      "url": "https://www.amazon.com/s?k=wire+stripper"
+    },
+    {
+      "name": "Voltage tester",
+      "url": "https://www.amazon.com/s?k=non-contact+voltage+tester"
+    },
+    {
+      "name": "Electrical tape",
+      "url": "https://www.homedepot.com/s/electrical%20tape"
+    }
+  ],
   "videoTitle": "Search: 'how to replace a light switch safely'",
   "videoUrl": "https://www.familyhandyman.com/project/how-to-replace-a-light-switch/",
   "verified": false

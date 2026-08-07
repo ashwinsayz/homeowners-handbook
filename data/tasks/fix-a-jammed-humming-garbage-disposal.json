@@ -16,6 +16,16 @@
     "Turn on cold water and run the disposal briefly to test.",
     "If it still won't run, check the breaker/GFCI outlet it's plugged into."
   ],
+  "materials": [
+    {
+      "name": "Garbage disposal wrench key",
+      "url": "https://www.amazon.com/s?k=garbage+disposal+hex+wrench+key"
+    },
+    {
+      "name": "Garbage disposal cleaner pods",
+      "url": "https://www.amazon.com/s?k=garbage+disposal+cleaner+pods"
+    }
+  ],
   "videoTitle": "How To Repair a Garbage Disposal - This Old House",
   "videoUrl": "https://www.familyhandyman.com/project/garbage-disposal-repair/",
   "verified": true

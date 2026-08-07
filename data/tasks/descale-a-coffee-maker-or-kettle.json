@@ -16,6 +16,16 @@
     "Wipe down the exterior and carafe.",
     "Repeat monthly in hard-water areas."
   ],
+  "materials": [
+    {
+      "name": "Descaling solution",
+      "url": "https://www.amazon.com/s?k=descaling+solution+coffee+maker"
+    },
+    {
+      "name": "White vinegar",
+      "url": "https://www.amazon.com/s?k=white+vinegar+gallon"
+    }
+  ],
   "videoTitle": "Search: 'how to descale a coffee maker with vinegar'",
   "videoUrl": "https://www.thespruce.com/how-to-descale-a-coffee-maker-4685044",
   "verified": false

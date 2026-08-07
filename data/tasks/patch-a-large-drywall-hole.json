@@ -16,6 +16,32 @@
     "Apply joint compound and paper/mesh tape over the seams in thin layers.",
     "Sand between coats, then prime and paint once fully smooth and dry."
   ],
+  "materials": [
+    {
+      "name": "Drywall sheet",
+      "url": "https://www.homedepot.com/s/drywall%20sheet"
+    },
+    {
+      "name": "Drywall screws",
+      "url": "https://www.homedepot.com/s/drywall%20screws"
+    },
+    {
+      "name": "Joint compound",
+      "url": "https://www.homedepot.com/s/joint%20compound"
+    },
+    {
+      "name": "Drywall tape",
+      "url": "https://www.homedepot.com/s/drywall%20tape"
+    },
+    {
+      "name": "Corner bead",
+      "url": "https://www.homedepot.com/s/corner%20bead"
+    },
+    {
+      "name": "Sandpaper",
+      "url": "https://www.homedepot.com/s/sandpaper"
+    }
+  ],
   "videoTitle": "How to Patch Holes in Drywall in 9 Easy Steps - This Old House",
   "videoUrl": "https://www.thisoldhouse.com/walls/how-to-patch-holes-in-drywall",
   "verified": true

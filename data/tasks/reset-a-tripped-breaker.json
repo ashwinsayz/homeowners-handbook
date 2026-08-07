@@ -16,6 +16,16 @@
     "If it trips again immediately, stop and call an electrician - that signals a short or overload.",
     "Label the panel if the affected circuit wasn't already marked."
   ],
+  "materials": [
+    {
+      "name": "Circuit breaker finder",
+      "url": "https://www.amazon.com/s?k=circuit+breaker+finder"
+    },
+    {
+      "name": "Flashlight",
+      "url": "https://www.amazon.com/s?k=flashlight"
+    }
+  ],
   "videoTitle": "Search: 'how to safely reset a tripped circuit breaker'",
   "videoUrl": "https://www.youtube.com/results?search_query=how+to+reset+tripped+circuit+breaker",
   "verified": false

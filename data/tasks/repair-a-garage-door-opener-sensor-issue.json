@@ -16,6 +16,16 @@
     "Gently loosen and realign a sensor bracket if the light is blinking/misaligned.",
     "Test by closing the door and waving an object through the beam - it should reverse."
   ],
+  "materials": [
+    {
+      "name": "Garage door sensor alignment bracket",
+      "url": "https://www.amazon.com/s?k=garage+door+sensor+alignment+bracket"
+    },
+    {
+      "name": "Sensor wire",
+      "url": "https://www.amazon.com/s?k=garage+door+sensor+wire"
+    }
+  ],
   "videoTitle": "Search: 'garage door sensor not aligned troubleshooting'",
   "videoUrl": "https://www.youtube.com/results?search_query=garage+door+opener+sensor+adjustment+repair",
   "verified": false

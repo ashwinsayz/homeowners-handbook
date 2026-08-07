@@ -24,6 +24,16 @@
     "Will you properly shut off and drain the backflow preventer, and insulate it if needed?",
     "When should I schedule spring startup, and do you offer a combined annual service package?"
   ],
+  "materials": [
+    {
+      "name": "Blow-out adapter",
+      "url": "https://www.amazon.com/s?k=sprinkler+blow+out+adapter"
+    },
+    {
+      "name": "Insulation wrap for backflow preventer",
+      "url": "https://www.amazon.com/s?k=backflow+preventer+insulation+wrap"
+    }
+  ],
   "videoTitle": "Search: 'how to winterize a sprinkler system'",
   "videoUrl": "https://www.bobvila.com/articles/winterize-a-sprinkler-system/",
   "verified": false

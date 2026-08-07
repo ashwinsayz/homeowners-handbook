@@ -25,6 +25,28 @@
     "How long before I can use the deck after application, and when is full cure achieved?",
     "How many years should this last, and what maintenance will I need to do in between?"
   ],
+  "materials": [
+    {
+      "name": "Deck stain and sealer",
+      "url": "https://www.amazon.com/s?k=deck+stain+and+sealer"
+    },
+    {
+      "name": "Deck cleaner",
+      "url": "https://www.homedepot.com/s/deck%20cleaner"
+    },
+    {
+      "name": "Pump sprayer",
+      "url": "https://www.amazon.com/s?k=pump+sprayer"
+    },
+    {
+      "name": "Deck brush",
+      "url": "https://www.homedepot.com/s/deck%20brush"
+    },
+    {
+      "name": "Painter's tape",
+      "url": "https://www.amazon.com/s?k=painter%27s+tape"
+    }
+  ],
   "videoTitle": "How To Restain a Deck - This Old House",
   "videoUrl": "https://www.bobvila.com/articles/how-to-stain-a-deck/",
   "verified": true

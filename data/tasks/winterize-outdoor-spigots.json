@@ -16,6 +16,16 @@
     "Install a foam spigot cover over the faucet for extra insulation.",
     "For spigots without an interior shutoff, install a frost-free hose bib."
   ],
+  "materials": [
+    {
+      "name": "Outdoor faucet cover",
+      "url": "https://www.amazon.com/s?k=outdoor+faucet+cover"
+    },
+    {
+      "name": "Indoor water shutoff key",
+      "url": "https://www.amazon.com/s?k=indoor+water+shutoff+key"
+    }
+  ],
   "videoTitle": "Search: 'how to winterize outdoor faucets'",
   "videoUrl": "https://www.bobvila.com/articles/how-to-winterize-outdoor-faucets/",
   "verified": false

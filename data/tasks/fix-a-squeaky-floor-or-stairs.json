@@ -16,6 +16,20 @@
     "From below (if accessible), add a shim with wood glue between the subfloor and joist.",
     "Test by walking over the spot again before patching visible holes."
   ],
+  "materials": [
+    {
+      "name": "Construction adhesive",
+      "url": "https://www.homedepot.com/s/construction%20adhesive"
+    },
+    {
+      "name": "Wood screws",
+      "url": "https://www.homedepot.com/s/wood%20screws"
+    },
+    {
+      "name": "Squeak-relief screw kit",
+      "url": "https://www.amazon.com/s?k=squeak+relief+screw+kit"
+    }
+  ],
   "videoTitle": "How To Fix Squeaky Floors - This Old House",
   "videoUrl": "https://www.thisoldhouse.com/flooring/21015195/how-to-fix-squeaky-floors",
   "verified": true

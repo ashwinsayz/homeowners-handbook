@@ -16,6 +16,24 @@
     "Wipe excess grout off tile faces with a damp sponge before it fully sets.",
     "Once cured, apply grout sealer (for cement-based grout) to resist future staining."
   ],
+  "materials": [
+    {
+      "name": "Tile grout",
+      "url": "https://www.lowes.com/search?searchTerm=tile+grout"
+    },
+    {
+      "name": "Grout saw/oscillating tool",
+      "url": "https://www.amazon.com/s?k=oscillating+tool+grout+saw"
+    },
+    {
+      "name": "Grout float",
+      "url": "https://www.homedepot.com/s/grout%20float"
+    },
+    {
+      "name": "Grout sealer",
+      "url": "https://www.amazon.com/s?k=grout+sealer"
+    }
+  ],
   "videoTitle": "Search: 'how to regrout tile step by step'",
   "videoUrl": "https://www.thisoldhouse.com/bathrooms/21017108/how-to-regrout-a-tile-floor",
   "verified": false

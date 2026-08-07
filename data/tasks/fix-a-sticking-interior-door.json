@@ -16,6 +16,24 @@
     "If it's a strike-plate alignment issue, adjust the plate or shim the hinge.",
     "Lubricate hinges with silicone spray for smooth operation."
   ],
+  "materials": [
+    {
+      "name": "Wood plane or belt sander",
+      "url": "https://www.amazon.com/s?k=wood+hand+plane"
+    },
+    {
+      "name": "Sandpaper",
+      "url": "https://www.amazon.com/s?k=sandpaper+assortment"
+    },
+    {
+      "name": "Wood sealer",
+      "url": "https://www.homedepot.com/s/wood%20sealer"
+    },
+    {
+      "name": "Door hinge screws",
+      "url": "https://www.homedepot.com/s/door%20hinge%20screws"
+    }
+  ],
   "videoTitle": "Search: 'how to fix a sticking door hinges and strike plate'",
   "videoUrl": "https://www.familyhandyman.com/project/how-to-fix-a-sticking-door/",
   "verified": false

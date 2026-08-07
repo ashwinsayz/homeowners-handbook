@@ -25,6 +25,16 @@
     "Will this protect my HVAC system and large appliances, or do I need supplemental point-of-use protection?",
     "What is the warranty on the device, and does your labor come with a guarantee?"
   ],
+  "materials": [
+    {
+      "name": "Whole-house surge protector SPD",
+      "url": "https://www.amazon.com/s?k=whole+house+surge+protector+SPD"
+    },
+    {
+      "name": "Wire connectors",
+      "url": "https://www.homedepot.com/s/wire%20connectors"
+    }
+  ],
   "videoTitle": "Search: 'whole house surge protector installation'",
   "videoUrl": "https://www.youtube.com/results?search_query=whole+house+surge+protector+installation",
   "verified": false

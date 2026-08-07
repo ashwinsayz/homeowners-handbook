@@ -16,6 +16,20 @@
     "Use a C-wire adapter if your system lacks a common wire.",
     "Restore power and complete setup through the manufacturer's app."
   ],
+  "materials": [
+    {
+      "name": "Smart thermostat",
+      "url": "https://www.amazon.com/s?k=smart+thermostat"
+    },
+    {
+      "name": "Wire labels",
+      "url": "https://www.amazon.com/s?k=wire+labels"
+    },
+    {
+      "name": "Drill and drill bits",
+      "url": "https://www.amazon.com/s?k=drill+and+drill+bits+set"
+    }
+  ],
   "videoTitle": "How to Install a Smart Thermostat - This Old House",
   "videoUrl": "https://www.thisoldhouse.com/smart-homes/21017259/how-to-install-a-smart-thermostat",
   "verified": true

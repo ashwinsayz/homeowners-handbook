@@ -24,6 +24,24 @@
     "Do you take photos of any damage or problem areas you find?",
     "What is your policy if a gutter section is damaged during the cleaning?"
   ],
+  "materials": [
+    {
+      "name": "Gutter scoop",
+      "url": "https://www.amazon.com/s?k=gutter+scoop"
+    },
+    {
+      "name": "Garden hose with spray nozzle",
+      "url": "https://www.amazon.com/s?k=garden+hose+spray+nozzle"
+    },
+    {
+      "name": "Safety ladder stabilizer",
+      "url": "https://www.amazon.com/s?k=ladder+stabilizer"
+    },
+    {
+      "name": "Work gloves",
+      "url": "https://www.amazon.com/s?k=work+gloves"
+    }
+  ],
   "videoTitle": "How to Clear Your Home's Gutters in a Few Simple Steps - This Old House",
   "videoUrl": "https://www.thisoldhouse.com/gutters/how-to-clean-gutters",
   "verified": true

@@ -25,6 +25,28 @@
     "What stain options are available, and can I see physical samples on my wood species?",
     "Are the VOC levels safe for children or pets during and after curing?"
   ],
+  "materials": [
+    {
+      "name": "Floor finish",
+      "url": "https://www.lowes.com/search?searchTerm=hardwood+floor+finish"
+    },
+    {
+      "name": "Floor stain",
+      "url": "https://www.lowes.com/search?searchTerm=hardwood+floor+stain"
+    },
+    {
+      "name": "Floor buffer/sander rental",
+      "url": "https://www.lowes.com/search?searchTerm=floor+sander+rental"
+    },
+    {
+      "name": "Screen discs",
+      "url": "https://www.lowes.com/search?searchTerm=floor+screen+discs"
+    },
+    {
+      "name": "Tack cloth",
+      "url": "https://www.homedepot.com/s/tack%20cloth"
+    }
+  ],
   "videoTitle": "Search: 'DIY vs professional hardwood floor refinishing'",
   "videoUrl": "https://www.lowes.com/n/how-to/how-to-refinish-hardwood-floors",
   "verified": false

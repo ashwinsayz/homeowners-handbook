@@ -16,6 +16,28 @@
     "Connect new supply lines and hand-tighten, then snug with a wrench.",
     "Turn water on slowly, check for leaks, and run the faucet to clear air/debris."
   ],
+  "materials": [
+    {
+      "name": "Kitchen or bathroom faucet",
+      "url": "https://www.amazon.com/s?k=kitchen+bathroom+faucet"
+    },
+    {
+      "name": "Plumber's putty",
+      "url": "https://www.homedepot.com/s/plumber%27s%20putty"
+    },
+    {
+      "name": "Teflon tape",
+      "url": "https://www.homedepot.com/s/Teflon%20tape"
+    },
+    {
+      "name": "Basin wrench",
+      "url": "https://www.amazon.com/s?k=basin+wrench"
+    },
+    {
+      "name": "Supply lines",
+      "url": "https://www.homedepot.com/s/faucet%20supply%20lines"
+    }
+  ],
   "videoTitle": "Search: 'how to replace a kitchen faucet'",
   "videoUrl": "https://www.thespruce.com/how-to-replace-a-faucet-4047777",
   "verified": false

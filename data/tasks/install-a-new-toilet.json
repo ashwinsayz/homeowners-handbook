@@ -16,6 +16,28 @@
     "Set a new wax ring, lower the new toilet straight down, and bolt it in place.",
     "Reconnect the supply line, turn on water, and check for leaks at the base."
   ],
+  "materials": [
+    {
+      "name": "Toilet",
+      "url": "https://www.homedepot.com/s/toilet"
+    },
+    {
+      "name": "Wax ring with horn",
+      "url": "https://www.homedepot.com/s/wax%20ring%20with%20horn"
+    },
+    {
+      "name": "Toilet supply line",
+      "url": "https://www.lowes.com/search?searchTerm=toilet+supply+line"
+    },
+    {
+      "name": "Toilet bolts",
+      "url": "https://www.homedepot.com/s/toilet%20bolts"
+    },
+    {
+      "name": "Adjustable wrench",
+      "url": "https://www.amazon.com/s?k=adjustable+wrench"
+    }
+  ],
   "videoTitle": "How to Repair a Leaking Toilet - This Old House",
   "videoUrl": "https://www.thisoldhouse.com/plumbing/how-to-install-a-toilet",
   "verified": true

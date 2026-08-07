@@ -25,6 +25,16 @@
     "Are there any fire code issues with my fireplace or insert configuration?",
     "What is the expected timeframe before I need cleaning again given my usage?"
   ],
+  "materials": [
+    {
+      "name": "Chimney cleaning log",
+      "url": "https://www.amazon.com/s?k=chimney+cleaning+log"
+    },
+    {
+      "name": "Chimney cap",
+      "url": "https://www.amazon.com/s?k=chimney+cap"
+    }
+  ],
   "videoTitle": "Search: 'chimney sweep inspection what to expect'",
   "videoUrl": "https://www.bhg.com/home-improvement/advice/how-to-clean-a-fireplace-and-chimney/",
   "verified": false

@@ -16,6 +16,20 @@
     "Adjust the strike plate position by re-drilling slightly if needed.",
     "Test the latch several times after adjustment."
   ],
+  "materials": [
+    {
+      "name": "Strike plate",
+      "url": "https://www.homedepot.com/s/door%20strike%20plate"
+    },
+    {
+      "name": "Door latch strike plate kit",
+      "url": "https://www.homedepot.com/s/door%20latch%20strike%20plate%20kit"
+    },
+    {
+      "name": "Chisel",
+      "url": "https://www.amazon.com/s?k=wood+chisel"
+    }
+  ],
   "videoTitle": "Search: 'how to fix a door that wont latch strike plate'",
   "videoUrl": "https://www.familyhandyman.com/project/how-to-fix-a-door-that-wont-latch/",
   "verified": false

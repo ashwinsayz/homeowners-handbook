@@ -16,6 +16,20 @@
     "Let the tank drain fully until water runs clear; briefly open the cold inlet to stir remaining sediment.",
     "Close the drain valve, remove the hose, refill the tank, then restore power/gas."
   ],
+  "materials": [
+    {
+      "name": "Garden hose",
+      "url": "https://www.amazon.com/s?k=garden+hose"
+    },
+    {
+      "name": "Hose bibb",
+      "url": "https://www.homedepot.com/s/hose%20bibb"
+    },
+    {
+      "name": "Water heater anode rod",
+      "url": "https://www.amazon.com/s?k=water+heater+anode+rod"
+    }
+  ],
   "videoTitle": "Guide to Draining and Flushing an Electric Water Heater - This Old House",
   "videoUrl": "https://www.thisoldhouse.com/plumbing/draining-flushing-an-electric-water-heater",
   "verified": true

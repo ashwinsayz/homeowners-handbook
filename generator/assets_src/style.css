@@ -159,6 +159,12 @@ main{min-height:70vh; padding-bottom:80px;}
 .btn-suggest{font-family:'Space Grotesk',sans-serif; font-weight:600; font-size:13px; background:var(--blue); color:#fff; border:none; padding:9px 14px; border-radius:2px; cursor:pointer;}
 .btn-suggest:hover{background:var(--blue-deep);}
 
+.materials-section{padding:20px 30px 26px; border-top:1px solid var(--line);}
+.materials-label{font-family:'IBM Plex Mono',monospace; font-size:10px; text-transform:uppercase; letter-spacing:.08em; color:var(--ink-faint); margin-bottom:12px;}
+.materials-list{list-style:none; margin:0; padding:0; display:flex; flex-wrap:wrap; gap:8px;}
+.materials-list li a{display:inline-block; font-family:'Space Grotesk',sans-serif; font-size:13px; font-weight:500; color:var(--blue); text-decoration:none; border:1px solid var(--line-strong); padding:5px 11px; border-radius:2px; background:var(--paper-raised);}
+.materials-list li a:hover{background:var(--amber-soft); border-color:var(--amber);}
+
 .modal-overlay{position:fixed; inset:0; background:rgba(23,48,56,0.45); display:none; align-items:center; justify-content:center; z-index:100; padding:20px;}
 .modal-overlay.show{display:flex;}
 .modal{background:var(--paper-raised); max-width:460px; width:100%; padding:26px 26px 22px; border:1px solid var(--line-strong);}

@@ -16,6 +16,16 @@
     "Vacuum dust from the vents on the detector housing.",
     "Replace the entire unit if it's over 10 years old, regardless of battery."
   ],
+  "materials": [
+    {
+      "name": "9V batteries",
+      "url": "https://www.amazon.com/s?k=9V+batteries"
+    },
+    {
+      "name": "AA or AAA batteries",
+      "url": "https://www.amazon.com/s?k=AA+AAA+batteries"
+    }
+  ],
   "videoTitle": "How to Install a Hard Wired Smoke Detector - Family Handyman",
   "videoUrl": "https://www.bhg.com/home-improvement/advice/home-safety/smoke-detector-battery-replacement/",
   "verified": true

@@ -16,6 +16,16 @@
     "Slide in the new filter with the arrow pointing toward the furnace/blower.",
     "Turn the system back on and write the install date on the filter frame."
   ],
+  "materials": [
+    {
+      "name": "MERV-11 furnace filter",
+      "url": "https://www.amazon.com/s?k=MERV+11+furnace+filter"
+    },
+    {
+      "name": "Filter gauge/reminder",
+      "url": "https://www.amazon.com/s?k=filter+change+reminder"
+    }
+  ],
   "videoTitle": "How often to change your air filter",
   "videoUrl": "https://www.lowes.com/n/how-to/how-to-change-an-hvac-filter",
   "verified": false

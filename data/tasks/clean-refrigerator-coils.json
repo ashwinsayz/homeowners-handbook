@@ -16,6 +16,16 @@
     "Wipe down the surrounding area.",
     "Plug back in - dirty coils are a common cause of a fridge running hot or inefficiently."
   ],
+  "materials": [
+    {
+      "name": "Refrigerator coil brush",
+      "url": "https://www.amazon.com/s?k=refrigerator+coil+brush"
+    },
+    {
+      "name": "Vacuum with brush attachment",
+      "url": "https://www.amazon.com/s?k=vacuum+brush+attachment"
+    }
+  ],
   "videoTitle": "Search: 'how to clean refrigerator condenser coils'",
   "videoUrl": "https://www.thespruce.com/how-to-clean-refrigerator-coils-5116993",
   "verified": false

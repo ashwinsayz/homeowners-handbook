@@ -16,6 +16,20 @@
     "Once dry and sanded, use a popcorn-texture spray to match the surrounding ceiling.",
     "Prime and paint the patched area if it doesn't blend after texturing."
   ],
+  "materials": [
+    {
+      "name": "Popcorn ceiling patch spray",
+      "url": "https://www.amazon.com/s?k=popcorn+ceiling+patch+spray"
+    },
+    {
+      "name": "Drywall joint compound",
+      "url": "https://www.homedepot.com/s/drywall%20joint%20compound"
+    },
+    {
+      "name": "Paint primer",
+      "url": "https://www.homedepot.com/s/paint%20primer"
+    }
+  ],
   "videoTitle": "Search: 'how to repair popcorn ceiling water stain'",
   "videoUrl": "https://www.wikihow.com/Repair-a-Popcorn-Ceiling",
   "verified": false

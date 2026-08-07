@@ -24,6 +24,20 @@
     "Will this repair require removing and replacing any finished flooring above the affected area?",
     "What fasteners or adhesives do you use, and are they appropriate for subfloor applications?"
   ],
+  "materials": [
+    {
+      "name": "Construction screws",
+      "url": "https://www.homedepot.com/s/construction%20screws"
+    },
+    {
+      "name": "Construction adhesive",
+      "url": "https://www.homedepot.com/s/construction%20adhesive"
+    },
+    {
+      "name": "Plywood patch",
+      "url": "https://www.homedepot.com/s/plywood%20patch"
+    }
+  ],
   "videoTitle": "Search: 'how to fix a soft or squeaky subfloor'",
   "videoUrl": "https://www.lowes.com/n/how-to/how-to-fix-squeaky-floors",
   "verified": false

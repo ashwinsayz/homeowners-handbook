@@ -16,6 +16,20 @@
     "Smooth the filler level with the surrounding surface using a trowel.",
     "Let cure fully (check label) before driving or walking on it."
   ],
+  "materials": [
+    {
+      "name": "Asphalt crack filler",
+      "url": "https://www.homedepot.com/s/asphalt%20crack%20filler"
+    },
+    {
+      "name": "Asphalt patching compound",
+      "url": "https://www.homedepot.com/s/asphalt%20patching%20compound"
+    },
+    {
+      "name": "Tamper",
+      "url": "https://www.homedepot.com/s/tamper"
+    }
+  ],
   "videoTitle": "Search: 'how to fill a driveway crack'",
   "videoUrl": "https://www.familyhandyman.com/project/how-to-repair-asphalt-driveway/",
   "verified": false

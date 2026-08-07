@@ -16,6 +16,24 @@
     "Connect new fixture wires by color match, then secure the mounting bracket.",
     "Attach the fixture/fan body, restore power, and test all settings."
   ],
+  "materials": [
+    {
+      "name": "Ceiling fan or light fixture",
+      "url": "https://www.amazon.com/s?k=ceiling+fan+light+fixture"
+    },
+    {
+      "name": "Ceiling fan mounting bracket",
+      "url": "https://www.homedepot.com/s/ceiling%20fan%20mounting%20bracket"
+    },
+    {
+      "name": "Wire nuts",
+      "url": "https://www.homedepot.com/s/wire%20nuts"
+    },
+    {
+      "name": "Voltage tester",
+      "url": "https://www.amazon.com/s?k=non-contact+voltage+tester"
+    }
+  ],
   "videoTitle": "Search: 'how to install a ceiling fan replace light fixture'",
   "videoUrl": "https://www.lowes.com/n/how-to/how-to-install-a-ceiling-fan",
   "verified": false

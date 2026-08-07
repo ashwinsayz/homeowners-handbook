@@ -25,6 +25,24 @@
     "Do you offer a warranty on the repair, and for how long?",
     "Should I have a structural engineer assess this before or after repair?"
   ],
+  "materials": [
+    {
+      "name": "Concrete crack filler",
+      "url": "https://www.homedepot.com/s/concrete%20crack%20filler"
+    },
+    {
+      "name": "Epoxy injection kit",
+      "url": "https://www.amazon.com/s?k=epoxy+injection+kit+concrete"
+    },
+    {
+      "name": "Wire brush",
+      "url": "https://www.homedepot.com/s/wire%20brush"
+    },
+    {
+      "name": "Hydraulic cement",
+      "url": "https://www.homedepot.com/s/hydraulic%20cement"
+    }
+  ],
   "videoTitle": "Search: 'how to seal foundation cracks DIY'",
   "videoUrl": "https://www.bobvila.com/articles/how-to-fix-a-cracked-foundation/",
   "verified": false

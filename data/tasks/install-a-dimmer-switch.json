@@ -16,6 +16,20 @@
     "Wire the dimmer to match (some have a ground pigtail to connect).",
     "Mount, cover, restore power, and test the dimming range."
   ],
+  "materials": [
+    {
+      "name": "Dimmer switch",
+      "url": "https://www.amazon.com/s?k=dimmer+switch"
+    },
+    {
+      "name": "Voltage tester",
+      "url": "https://www.amazon.com/s?k=non-contact+voltage+tester"
+    },
+    {
+      "name": "Wire stripper",
+      "url": "https://www.amazon.com/s?k=wire+stripper"
+    }
+  ],
   "videoTitle": "Search: 'how to install a dimmer switch'",
   "videoUrl": "https://www.thisoldhouse.com/electrical/how-to-install-a-dimmer-switch",
   "verified": false

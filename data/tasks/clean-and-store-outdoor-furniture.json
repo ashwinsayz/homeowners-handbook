@@ -16,6 +16,16 @@
     "Store in a dry shed, garage, or use weatherproof furniture covers if left outside.",
     "Elevate items off the ground slightly to avoid moisture wicking."
   ],
+  "materials": [
+    {
+      "name": "Outdoor furniture cleaner",
+      "url": "https://www.amazon.com/s?k=outdoor+furniture+cleaner"
+    },
+    {
+      "name": "Furniture covers",
+      "url": "https://www.amazon.com/s?k=outdoor+furniture+covers"
+    }
+  ],
   "videoTitle": "Search: 'how to clean and store outdoor patio furniture'",
   "videoUrl": "https://www.bhg.com/home-improvement/advice/how-to-clean-outdoor-furniture/",
   "verified": false

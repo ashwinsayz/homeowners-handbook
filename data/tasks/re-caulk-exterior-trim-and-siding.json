@@ -16,6 +16,24 @@
     "Smooth the bead with a wet finger or caulk tool.",
     "Let cure per label instructions before painting over it."
   ],
+  "materials": [
+    {
+      "name": "Paintable exterior caulk",
+      "url": "https://www.homedepot.com/s/paintable%20exterior%20caulk"
+    },
+    {
+      "name": "Caulk gun",
+      "url": "https://www.homedepot.com/s/caulk%20gun"
+    },
+    {
+      "name": "Caulk remover tool",
+      "url": "https://www.amazon.com/s?k=caulk+remover+tool"
+    },
+    {
+      "name": "Painter's tape",
+      "url": "https://www.amazon.com/s?k=painter%27s+tape"
+    }
+  ],
   "videoTitle": "Search: 'how to caulk exterior trim and siding'",
   "videoUrl": "https://www.wikihow.com/Caulk-Siding",
   "verified": false

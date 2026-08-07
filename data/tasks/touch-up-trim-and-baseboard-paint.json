@@ -16,6 +16,20 @@
     "Use a small angled brush to apply matching trim paint in thin coats.",
     "Remove tape before the paint fully dries to avoid peeling."
   ],
+  "materials": [
+    {
+      "name": "Trim paint",
+      "url": "https://www.homedepot.com/s/trim%20paint"
+    },
+    {
+      "name": "Angled brush",
+      "url": "https://www.homedepot.com/s/angled%20paint%20brush"
+    },
+    {
+      "name": "Painter's tape",
+      "url": "https://www.amazon.com/s?k=painter%27s+tape"
+    }
+  ],
   "videoTitle": "Search: 'how to touch up baseboard paint'",
   "videoUrl": "https://www.wikihow.com/Touch-Up-Paint",
   "verified": false

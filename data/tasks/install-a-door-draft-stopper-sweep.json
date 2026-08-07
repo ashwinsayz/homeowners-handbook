@@ -16,6 +16,16 @@
     "Drill pilot holes and screw the sweep to the bottom of the door.",
     "Test that the door still opens/closes smoothly and seals the gap."
   ],
+  "materials": [
+    {
+      "name": "Door sweep",
+      "url": "https://www.lowes.com/search?searchTerm=door+sweep"
+    },
+    {
+      "name": "Door draft stopper",
+      "url": "https://www.amazon.com/s?k=door+draft+stopper"
+    }
+  ],
   "videoTitle": "Search: 'how to install a door sweep draft stopper'",
   "videoUrl": "https://www.wikihow.com/Install-a-Door-Sweep",
   "verified": false

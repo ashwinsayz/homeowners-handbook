@@ -24,6 +24,20 @@
     "Are there signs of existing water intrusion or staining under the flashing?",
     "What is the expected lifespan of any new flashing you install?"
   ],
+  "materials": [
+    {
+      "name": "Roofing sealant/caulk",
+      "url": "https://www.homedepot.com/s/roofing%20sealant%20caulk"
+    },
+    {
+      "name": "Roof flashing tape",
+      "url": "https://www.homedepot.com/s/roof%20flashing%20tape"
+    },
+    {
+      "name": "Sheet metal flashing",
+      "url": "https://www.homedepot.com/s/sheet%20metal%20flashing"
+    }
+  ],
   "videoTitle": "Search: 'how to inspect roof flashing for leaks'",
   "videoUrl": "https://www.lowes.com/n/how-to/how-to-install-roof-flashing",
   "verified": false

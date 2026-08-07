@@ -16,6 +16,20 @@
     "Verify the well liner isn't pulling away from the foundation.",
     "Consider adding gravel at the bottom to improve drainage if water pools."
   ],
+  "materials": [
+    {
+      "name": "Window well cover",
+      "url": "https://www.amazon.com/s?k=window+well+cover"
+    },
+    {
+      "name": "Gravel",
+      "url": "https://www.homedepot.com/s/landscaping%20gravel"
+    },
+    {
+      "name": "Window well drain",
+      "url": "https://www.homedepot.com/s/window%20well%20drain"
+    }
+  ],
   "videoTitle": "Search: 'how to clean and maintain a window well'",
   "videoUrl": "https://www.wikihow.com/Clean-Window-Wells",
   "verified": false

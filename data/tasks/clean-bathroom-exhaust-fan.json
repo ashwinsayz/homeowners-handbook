@@ -16,6 +16,16 @@
     "Wash the grille in warm soapy water and let it dry.",
     "Reattach the grille and test the fan."
   ],
+  "materials": [
+    {
+      "name": "Compressed air can",
+      "url": "https://www.amazon.com/s?k=compressed+air+can"
+    },
+    {
+      "name": "Soft brush set",
+      "url": "https://www.amazon.com/s?k=soft+detail+brush+set"
+    }
+  ],
   "videoTitle": "Search: 'how to clean a bathroom exhaust fan'",
   "videoUrl": "https://www.thespruce.com/how-to-clean-a-bathroom-exhaust-fan-2718906",
   "verified": false

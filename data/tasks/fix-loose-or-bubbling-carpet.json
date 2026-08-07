@@ -24,6 +24,20 @@
     "How long should a proper power stretch last before this happens again?",
     "Do you guarantee the repair, and for how long?"
   ],
+  "materials": [
+    {
+      "name": "Carpet seam sealer",
+      "url": "https://www.amazon.com/s?k=carpet+seam+sealer"
+    },
+    {
+      "name": "Carpet knee kicker",
+      "url": "https://www.amazon.com/s?k=carpet+knee+kicker"
+    },
+    {
+      "name": "Carpet tack strips",
+      "url": "https://www.lowes.com/search?searchTerm=carpet+tack+strips"
+    }
+  ],
   "videoTitle": "Search: 'how to re-stretch a wrinkled carpet'",
   "videoUrl": "https://www.bhg.com/home-improvement/flooring/carpet/how-to-re-stretch-carpet/",
   "verified": false

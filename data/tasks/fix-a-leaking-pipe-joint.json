@@ -25,6 +25,24 @@
     "What caused this joint to fail—age, pressure surges, movement—and is it likely to recur elsewhere?",
     "Does the repair come with a warranty?"
   ],
+  "materials": [
+    {
+      "name": "Pipe repair clamp",
+      "url": "https://www.homedepot.com/s/pipe%20repair%20clamp"
+    },
+    {
+      "name": "Pipe epoxy putty",
+      "url": "https://www.homedepot.com/s/pipe%20epoxy%20putty"
+    },
+    {
+      "name": "Teflon tape",
+      "url": "https://www.homedepot.com/s/Teflon%20tape"
+    },
+    {
+      "name": "Pipe cutter",
+      "url": "https://www.amazon.com/s?k=pipe+cutter"
+    }
+  ],
   "videoTitle": "Search: 'how to fix a leaking pipe joint'",
   "videoUrl": "https://www.lowes.com/n/how-to/fix-a-leaky-pipe",
   "verified": false

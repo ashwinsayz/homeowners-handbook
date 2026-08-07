@@ -16,6 +16,20 @@
     "Tighten or replace loose railing post bolts - railings are a common fall hazard.",
     "Check ledger board attachment to the house if the deck feels bouncy; call a pro if unsure."
   ],
+  "materials": [
+    {
+      "name": "Deck screws",
+      "url": "https://www.homedepot.com/s/deck%20screws"
+    },
+    {
+      "name": "Wood epoxy filler",
+      "url": "https://www.amazon.com/s?k=wood+epoxy+filler"
+    },
+    {
+      "name": "Post anchor",
+      "url": "https://www.homedepot.com/s/post%20anchor"
+    }
+  ],
   "videoTitle": "Search: 'how to repair loose deck boards and railings'",
   "videoUrl": "https://www.bobvila.com/articles/deck-repair/",
   "verified": false

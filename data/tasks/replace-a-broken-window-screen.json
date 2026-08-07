@@ -16,6 +16,20 @@
     "Trim excess mesh with a utility knife.",
     "Reinstall the frame into the window."
   ],
+  "materials": [
+    {
+      "name": "Window screen replacement kit",
+      "url": "https://www.lowes.com/search?searchTerm=window+screen+replacement+kit"
+    },
+    {
+      "name": "Screen spline roller",
+      "url": "https://www.amazon.com/s?k=screen+spline+roller"
+    },
+    {
+      "name": "Screen spline",
+      "url": "https://www.lowes.com/search?searchTerm=screen+spline"
+    }
+  ],
   "videoTitle": "Search: 'how to rescreen a window with new spline'",
   "videoUrl": "https://www.thespruce.com/how-to-repair-a-window-screen-2718773",
   "verified": false

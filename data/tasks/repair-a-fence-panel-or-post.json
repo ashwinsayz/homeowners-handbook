@@ -16,6 +16,24 @@
     "Set a new post in fresh concrete, using a level to keep it plumb while it cures.",
     "Reattach panels/pickets once the concrete has fully cured (24-48 hrs)."
   ],
+  "materials": [
+    {
+      "name": "Fence post",
+      "url": "https://www.lowes.com/search?searchTerm=fence+post"
+    },
+    {
+      "name": "Fence boards",
+      "url": "https://www.lowes.com/search?searchTerm=fence+boards"
+    },
+    {
+      "name": "Post hole concrete",
+      "url": "https://www.homedepot.com/s/post%20hole%20concrete"
+    },
+    {
+      "name": "Galvanized nails",
+      "url": "https://www.homedepot.com/s/galvanized%20nails"
+    }
+  ],
   "videoTitle": "Search: 'how to replace a rotted fence post'",
   "videoUrl": "https://www.bobvila.com/articles/how-to-repair-a-fence/",
   "verified": false

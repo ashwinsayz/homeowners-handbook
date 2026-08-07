@@ -16,6 +16,20 @@
     "Verify the discharge line outside is clear and directs water away from the foundation.",
     "Test a battery backup pump quarterly if you have one."
   ],
+  "materials": [
+    {
+      "name": "Sump pump float switch",
+      "url": "https://www.amazon.com/s?k=sump+pump+float+switch"
+    },
+    {
+      "name": "Sump pump backup",
+      "url": "https://www.amazon.com/s?k=sump+pump+backup"
+    },
+    {
+      "name": "PVC cement",
+      "url": "https://www.homedepot.com/s/PVC%20cement"
+    }
+  ],
   "videoTitle": "How To Prepare and Inspect Your Sump Pump for Spring - This Old House",
   "videoUrl": "https://www.thisoldhouse.com/basements/21015648/is-your-sump-pump-ready-for-spring",
   "verified": true

@@ -16,6 +16,28 @@
     "Apply new thin-set mortar and press the replacement tile into place, using spacers.",
     "Let cure, then apply matching grout and seal once fully dry."
   ],
+  "materials": [
+    {
+      "name": "Replacement tile",
+      "url": "https://www.lowes.com/search?searchTerm=replacement+tile"
+    },
+    {
+      "name": "Tile adhesive mastic",
+      "url": "https://www.homedepot.com/s/tile%20adhesive%20mastic"
+    },
+    {
+      "name": "Tile grout",
+      "url": "https://www.lowes.com/search?searchTerm=tile+grout"
+    },
+    {
+      "name": "Grout float",
+      "url": "https://www.homedepot.com/s/grout%20float"
+    },
+    {
+      "name": "Tile spacers",
+      "url": "https://www.lowes.com/search?searchTerm=tile+spacers"
+    }
+  ],
   "videoTitle": "Search: 'how to replace a single cracked tile'",
   "videoUrl": "https://www.lowes.com/n/how-to/how-to-replace-a-tile",
   "verified": false

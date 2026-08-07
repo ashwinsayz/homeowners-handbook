@@ -24,6 +24,20 @@
     "Can high-pressure water be driven behind my siding, and how do you prevent that?",
     "Are you insured for any accidental property damage during the job?"
   ],
+  "materials": [
+    {
+      "name": "Pressure washer",
+      "url": "https://www.amazon.com/s?k=pressure+washer"
+    },
+    {
+      "name": "Pressure washer detergent",
+      "url": "https://www.amazon.com/s?k=pressure+washer+detergent"
+    },
+    {
+      "name": "Surface cleaner attachment",
+      "url": "https://www.amazon.com/s?k=pressure+washer+surface+cleaner+attachment"
+    }
+  ],
   "videoTitle": "Search: 'how to pressure wash siding safely'",
   "videoUrl": "https://www.bobvila.com/articles/how-to-pressure-wash-a-house/",
   "verified": false

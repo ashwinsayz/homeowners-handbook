@@ -16,6 +16,20 @@
     "Let cure, then lightly sand wood filler flush.",
     "Prime and paint to match."
   ],
+  "materials": [
+    {
+      "name": "Paintable wood filler",
+      "url": "https://www.homedepot.com/s/paintable%20wood%20filler"
+    },
+    {
+      "name": "Putty knife",
+      "url": "https://www.homedepot.com/s/putty%20knife"
+    },
+    {
+      "name": "Sandpaper",
+      "url": "https://www.amazon.com/s?k=sandpaper+assortment"
+    }
+  ],
   "videoTitle": "Search: 'how to fill baseboard gaps with caulk'",
   "videoUrl": "https://www.wikihow.com/Fill-Gaps-in-Wood",
   "verified": false

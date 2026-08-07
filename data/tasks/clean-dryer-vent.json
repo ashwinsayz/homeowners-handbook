@@ -16,6 +16,16 @@
     "Use a vent-cleaning brush kit to clear the full duct run to the exterior vent.",
     "Reconnect the hose with a clamp, plug in the dryer, and run a cycle to test airflow."
   ],
+  "materials": [
+    {
+      "name": "Dryer vent cleaning kit",
+      "url": "https://www.amazon.com/s?k=dryer+vent+cleaning+kit"
+    },
+    {
+      "name": "Vacuum with hose attachment",
+      "url": "https://www.amazon.com/s?k=vacuum+with+hose+attachment"
+    }
+  ],
   "videoTitle": "How to Clean a Dryer Vent - Family Handyman",
   "videoUrl": "https://www.familyhandyman.com/project/how-to-clean-dryer-vent/",
   "verified": true

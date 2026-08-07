@@ -16,6 +16,12 @@
     "Run several gallons of water through the dispenser to flush carbon dust.",
     "Reset the filter indicator light if your model has one."
   ],
+  "materials": [
+    {
+      "name": "Refrigerator water filter",
+      "url": "https://www.amazon.com/s?k=refrigerator+water+filter"
+    }
+  ],
   "videoTitle": "Search: 'how to replace refrigerator water filter'",
   "videoUrl": "https://www.thespruce.com/how-to-replace-a-refrigerator-water-filter-5116974",
   "verified": false

@@ -16,6 +16,16 @@
     "Wipe down the hood interior while the filter is out.",
     "Reinstall the filter, ensuring it clicks/seats fully."
   ],
+  "materials": [
+    {
+      "name": "Range hood grease filter",
+      "url": "https://www.amazon.com/s?k=range+hood+grease+filter"
+    },
+    {
+      "name": "Degreaser spray",
+      "url": "https://www.amazon.com/s?k=kitchen+degreaser+spray"
+    }
+  ],
   "videoTitle": "Search: 'how to clean or replace range hood filter'",
   "videoUrl": "https://www.thespruce.com/how-to-clean-range-hood-filter-4801782",
   "verified": false

@@ -24,6 +24,16 @@
     "What is included in the service call—diagnosis, parts, and labor?",
     "If you find additional problems, will you quote them and get my approval before proceeding?"
   ],
+  "materials": [
+    {
+      "name": "Oven igniter",
+      "url": "https://www.amazon.com/s?k=oven+igniter+gas+range"
+    },
+    {
+      "name": "Oven-rated wire connectors",
+      "url": "https://www.amazon.com/s?k=oven+rated+wire+connectors"
+    }
+  ],
   "videoTitle": "Search: 'how to replace a gas oven igniter'",
   "videoUrl": "https://www.youtube.com/results?search_query=how+to+replace+gas+oven+igniter",
   "verified": false

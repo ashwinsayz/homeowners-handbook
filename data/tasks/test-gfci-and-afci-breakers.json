@@ -16,6 +16,12 @@
     "If a device won't reset or trips constantly, that indicates a wiring fault - call an electrician.",
     "Note any dead outlets after testing so you can restore/investigate them."
   ],
+  "materials": [
+    {
+      "name": "Outlet tester with GFCI test button",
+      "url": "https://www.amazon.com/s?k=outlet+tester+GFCI+test+button"
+    }
+  ],
   "videoTitle": "Search: 'how to test GFCI and AFCI breakers'",
   "videoUrl": "https://www.wikihow.com/Test-a-GFCI-Outlet",
   "verified": false

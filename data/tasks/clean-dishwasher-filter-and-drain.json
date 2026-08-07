@@ -16,6 +16,20 @@
     "Check the drain area for debris and remove any buildup.",
     "Reinsert the filter, twisting to lock it back in place."
   ],
+  "materials": [
+    {
+      "name": "White vinegar",
+      "url": "https://www.amazon.com/s?k=white+vinegar+gallon"
+    },
+    {
+      "name": "Dishwasher cleaner tablet",
+      "url": "https://www.amazon.com/s?k=dishwasher+cleaner+tablet"
+    },
+    {
+      "name": "Soft brush",
+      "url": "https://www.amazon.com/s?k=soft+cleaning+brush"
+    }
+  ],
   "videoTitle": "Search: 'how to clean dishwasher filter'",
   "videoUrl": "https://www.thespruce.com/how-to-clean-a-dishwasher-4845547",
   "verified": false

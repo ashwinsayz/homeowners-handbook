@@ -16,6 +16,24 @@
     "Connect wires to matching terminals on the new outlet.",
     "Push the outlet into the box, secure it, replace the cover, and restore power."
   ],
+  "materials": [
+    {
+      "name": "Electrical outlet",
+      "url": "https://www.homedepot.com/s/electrical%20outlet"
+    },
+    {
+      "name": "Voltage tester",
+      "url": "https://www.amazon.com/s?k=non-contact+voltage+tester"
+    },
+    {
+      "name": "Wire stripper",
+      "url": "https://www.amazon.com/s?k=wire+stripper"
+    },
+    {
+      "name": "Electrical box",
+      "url": "https://www.homedepot.com/s/electrical%20box"
+    }
+  ],
   "videoTitle": "Search: 'how to replace an electrical outlet'",
   "videoUrl": "https://www.youtube.com/results?search_query=how+to+replace+electrical+outlet",
   "verified": false

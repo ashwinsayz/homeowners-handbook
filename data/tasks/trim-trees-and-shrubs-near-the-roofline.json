@@ -24,6 +24,20 @@
     "Are you insured for any damage to the roof, gutters, or property during trimming?",
     "Will improper trimming harm the long-term health or structure of my trees?"
   ],
+  "materials": [
+    {
+      "name": "Bypass pruning shears",
+      "url": "https://www.amazon.com/s?k=bypass+pruning+shears"
+    },
+    {
+      "name": "Telescoping pruning saw",
+      "url": "https://www.amazon.com/s?k=telescoping+pruning+saw"
+    },
+    {
+      "name": "Safety glasses",
+      "url": "https://www.amazon.com/s?k=safety+glasses"
+    }
+  ],
   "videoTitle": "Search: 'how to trim tree branches away from roof'",
   "videoUrl": "https://www.bhg.com/gardening/trees-shrubs-vines/trees/how-to-prune-trees/",
   "verified": false

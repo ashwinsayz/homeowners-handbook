@@ -16,6 +16,20 @@
     "Connect any downstream-protected wires to the LOAD terminals.",
     "Secure in the box, restore power, then press TEST and RESET to confirm it trips correctly."
   ],
+  "materials": [
+    {
+      "name": "GFCI outlet",
+      "url": "https://www.homedepot.com/s/GFCI%20outlet"
+    },
+    {
+      "name": "Voltage tester",
+      "url": "https://www.amazon.com/s?k=non-contact+voltage+tester"
+    },
+    {
+      "name": "Wire stripper",
+      "url": "https://www.amazon.com/s?k=wire+stripper"
+    }
+  ],
   "videoTitle": "How To Install a GFCI Outlet - This Old House",
   "videoUrl": "https://www.thisoldhouse.com/electrical/how-to-upgrade-to-gfci-outlets",
   "verified": true

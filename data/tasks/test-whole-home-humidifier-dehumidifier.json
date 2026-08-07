@@ -16,6 +16,20 @@
     "Verify the humidistat setting matches the season (lower in winter to avoid condensation).",
     "Run a full cycle and confirm water flow and shutoff work correctly."
   ],
+  "materials": [
+    {
+      "name": "Humidistat",
+      "url": "https://www.amazon.com/s?k=humidistat"
+    },
+    {
+      "name": "Water panel evaporator pad",
+      "url": "https://www.amazon.com/s?k=water+panel+evaporator+pad"
+    },
+    {
+      "name": "Vinegar",
+      "url": "https://www.amazon.com/s?k=white+vinegar+gallon"
+    }
+  ],
   "videoTitle": "Search: 'how to maintain a whole home humidifier'",
   "videoUrl": "https://www.wikihow.com/Test-a-Humidifier",
   "verified": false

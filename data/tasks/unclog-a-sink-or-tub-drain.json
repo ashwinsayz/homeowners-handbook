@@ -16,6 +16,20 @@
     "Use a hand-crank drain auger/snake for anything deeper in the line.",
     "Avoid chemical drain cleaners; they can damage pipes and are a plumber safety hazard."
   ],
+  "materials": [
+    {
+      "name": "Drain snake/auger",
+      "url": "https://www.amazon.com/s?k=drain+snake+auger"
+    },
+    {
+      "name": "Drain hair catcher",
+      "url": "https://www.amazon.com/s?k=drain+hair+catcher"
+    },
+    {
+      "name": "Baking soda and vinegar",
+      "url": "https://www.amazon.com/s?k=baking+soda+white+vinegar"
+    }
+  ],
   "videoTitle": "How to Clear Clogged Drains - Family Handyman",
   "videoUrl": "https://www.familyhandyman.com/project/how-to-clear-clogged-drains/",
   "verified": true

@@ -24,6 +24,20 @@
     "Will the work include insulating ducts that run through unconditioned spaces?",
     "Can I qualify for a utility rebate for duct sealing, and will you provide documentation?"
   ],
+  "materials": [
+    {
+      "name": "Mastic duct sealant",
+      "url": "https://www.homedepot.com/s/mastic%20duct%20sealant"
+    },
+    {
+      "name": "Foil HVAC tape UL-181",
+      "url": "https://www.homedepot.com/s/foil%20HVAC%20tape%20UL-181"
+    },
+    {
+      "name": "Duct brush",
+      "url": "https://www.amazon.com/s?k=duct+brush"
+    }
+  ],
   "videoTitle": "Search: 'how to seal air ducts DIY'",
   "videoUrl": "https://www.lowes.com/n/how-to/how-to-seal-air-ducts",
   "verified": false

@@ -16,6 +16,20 @@
     "Hand-tighten the new braided line, then snug a quarter turn with a wrench.",
     "Turn water back on and check both ends for drips."
   ],
+  "materials": [
+    {
+      "name": "Braided stainless supply lines",
+      "url": "https://www.homedepot.com/s/braided%20stainless%20supply%20lines"
+    },
+    {
+      "name": "Adjustable wrench",
+      "url": "https://www.amazon.com/s?k=adjustable+wrench"
+    },
+    {
+      "name": "Plumber's tape",
+      "url": "https://www.homedepot.com/s/plumber%27s%20tape"
+    }
+  ],
   "videoTitle": "Search: 'how to replace faucet supply lines'",
   "videoUrl": "https://www.wikihow.com/Replace-Toilet-Supply-Lines",
   "verified": false

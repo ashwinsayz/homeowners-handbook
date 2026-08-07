@@ -16,6 +16,16 @@
     "Wipe away any excess to avoid drips on flooring.",
     "Lubricate locksets and deadbolts with a dry graphite or PTFE lubricant, not oil."
   ],
+  "materials": [
+    {
+      "name": "WD-40 or white lithium grease",
+      "url": "https://www.amazon.com/s?k=white+lithium+grease+spray"
+    },
+    {
+      "name": "3-in-1 oil",
+      "url": "https://www.amazon.com/s?k=3+in+1+oil"
+    }
+  ],
   "videoTitle": "Search: 'how to lubricate squeaky door hinges'",
   "videoUrl": "https://www.wikihow.com/Lubricate-Door-Hinges",
   "verified": false

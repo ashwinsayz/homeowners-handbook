@@ -414,6 +414,21 @@ def build_task_pages(tasks, out_dir):
         else:
             pro_questions_html = ""
 
+        mats = t.get("materials", [])
+        if mats:
+            items_html = "\n            ".join(
+                f'<li><a href="{esc(m["url"])}" target="_blank" rel="noopener">{esc(m["name"])}</a></li>'
+                for m in mats
+            )
+            materials_html = f"""<div class="materials-section">
+        <div class="materials-label mono">Bill of materials</div>
+        <ul class="materials-list">
+          {items_html}
+        </ul>
+      </div>"""
+        else:
+            materials_html = ""
+
         cat_slug = slugify(t["category"])
 
         body = f"""{header_nav(path)}
@@ -464,6 +479,7 @@ def build_task_pages(tasks, out_dir):
           </div>
         </div>
       </div>
+      {materials_html}
     </div>
   </div>
 </main>

@@ -16,6 +16,20 @@
     "Straighten bent fins carefully with a fin comb.",
     "Trim back plants/shrubs to keep 2 ft of clearance on all sides."
   ],
+  "materials": [
+    {
+      "name": "AC coil cleaner spray",
+      "url": "https://www.amazon.com/s?k=AC+coil+cleaner+spray"
+    },
+    {
+      "name": "Garden hose nozzle",
+      "url": "https://www.homedepot.com/s/garden%20hose%20nozzle"
+    },
+    {
+      "name": "Fin comb",
+      "url": "https://www.amazon.com/s?k=fin+comb+air+conditioner"
+    }
+  ],
   "videoTitle": "Search: 'how to clean an AC condenser unit'",
   "videoUrl": "https://www.youtube.com/results?search_query=how+to+clean+AC+condenser+outdoor+unit",
   "verified": false

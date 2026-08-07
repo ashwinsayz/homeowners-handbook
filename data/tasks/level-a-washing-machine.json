@@ -16,6 +16,20 @@
     "Tighten the locknuts back against the cabinet base.",
     "Run a spin cycle to confirm vibration/walking has stopped."
   ],
+  "materials": [
+    {
+      "name": "Adjustable wrench",
+      "url": "https://www.amazon.com/s?k=adjustable+wrench"
+    },
+    {
+      "name": "Torpedo level",
+      "url": "https://www.amazon.com/s?k=torpedo+level"
+    },
+    {
+      "name": "Anti-vibration pads",
+      "url": "https://www.amazon.com/s?k=anti+vibration+pads+washing+machine"
+    }
+  ],
   "videoTitle": "Search: 'how to level a washing machine'",
   "videoUrl": "https://www.youtube.com/results?search_query=how+to+level+a+washing+machine",
   "verified": false

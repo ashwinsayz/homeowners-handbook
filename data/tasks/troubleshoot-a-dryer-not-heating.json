@@ -24,6 +24,24 @@
     "If repair cost approaches the price of a new unit, will you advise me on replacement instead?",
     "What is your diagnostic fee, and does it apply toward the repair cost if I proceed?"
   ],
+  "materials": [
+    {
+      "name": "Dryer heating element",
+      "url": "https://www.amazon.com/s?k=dryer+heating+element"
+    },
+    {
+      "name": "Dryer thermal fuse",
+      "url": "https://www.amazon.com/s?k=dryer+thermal+fuse"
+    },
+    {
+      "name": "Dryer vent brush kit",
+      "url": "https://www.amazon.com/s?k=dryer+vent+brush+kit"
+    },
+    {
+      "name": "Multimeter",
+      "url": "https://www.amazon.com/s?k=multimeter"
+    }
+  ],
   "videoTitle": "Search: 'dryer not heating troubleshooting guide'",
   "videoUrl": "https://www.youtube.com/results?search_query=dryer+not+heating+how+to+fix",
   "verified": false

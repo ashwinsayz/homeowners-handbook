@@ -24,6 +24,24 @@
     "Is a permit required for siding replacement in my area?",
     "What is the warranty on materials and your workmanship?"
   ],
+  "materials": [
+    {
+      "name": "Vinyl siding",
+      "url": "https://www.lowes.com/search?searchTerm=vinyl+siding"
+    },
+    {
+      "name": "Siding removal tool",
+      "url": "https://www.amazon.com/s?k=siding+removal+tool"
+    },
+    {
+      "name": "Exterior caulk",
+      "url": "https://www.homedepot.com/s/exterior%20caulk"
+    },
+    {
+      "name": "Color-matched paint",
+      "url": "https://www.homedepot.com/s/color+matched+paint"
+    }
+  ],
   "videoTitle": "Search: 'how to replace a damaged siding panel'",
   "videoUrl": "https://www.bobvila.com/articles/how-to-replace-siding/",
   "verified": false

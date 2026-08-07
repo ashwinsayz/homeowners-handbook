@@ -16,6 +16,20 @@
     "Run a smooth bead of exterior-grade caulk along the window frame's edge.",
     "Smooth with a wet finger and let cure before painting."
   ],
+  "materials": [
+    {
+      "name": "Paintable window caulk",
+      "url": "https://www.homedepot.com/s/paintable%20window%20caulk"
+    },
+    {
+      "name": "Caulk gun",
+      "url": "https://www.homedepot.com/s/caulk%20gun"
+    },
+    {
+      "name": "Caulk remover",
+      "url": "https://www.amazon.com/s?k=caulk+remover+tool"
+    }
+  ],
   "videoTitle": "Search: 'how to caulk around windows'",
   "videoUrl": "https://www.thespruce.com/how-to-caulk-windows-2718797",
   "verified": false

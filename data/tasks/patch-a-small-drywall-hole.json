@@ -16,6 +16,24 @@
     "Wipe away dust with a damp cloth.",
     "Prime and paint to match the surrounding wall."
   ],
+  "materials": [
+    {
+      "name": "Drywall patch kit",
+      "url": "https://www.homedepot.com/s/drywall%20patch%20kit"
+    },
+    {
+      "name": "Spackle",
+      "url": "https://www.homedepot.com/s/spackle"
+    },
+    {
+      "name": "Putty knife",
+      "url": "https://www.homedepot.com/s/putty%20knife"
+    },
+    {
+      "name": "Sandpaper",
+      "url": "https://www.homedepot.com/s/sandpaper"
+    }
+  ],
   "videoTitle": "How To Patch Drywall - This Old House",
   "videoUrl": "https://www.thisoldhouse.com/walls/21017164/how-to-patch-drywall",
   "verified": true

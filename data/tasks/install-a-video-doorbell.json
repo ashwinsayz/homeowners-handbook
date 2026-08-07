@@ -16,6 +16,20 @@
     "Connect the wiring or install the battery pack.",
     "Complete app setup, adjust motion zones, and test the live view/chime."
   ],
+  "materials": [
+    {
+      "name": "Video doorbell",
+      "url": "https://www.amazon.com/s?k=video+doorbell"
+    },
+    {
+      "name": "Drill and drill bits",
+      "url": "https://www.amazon.com/s?k=drill+and+drill+bits+set"
+    },
+    {
+      "name": "Wire connectors",
+      "url": "https://www.homedepot.com/s/wire%20connectors"
+    }
+  ],
   "videoTitle": "Search: 'how to install a smart video doorbell'",
   "videoUrl": "https://www.familyhandyman.com/project/how-to-install-a-video-doorbell/",
   "verified": false

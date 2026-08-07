@@ -16,6 +16,16 @@
     "Replace batteries per manufacturer schedule.",
     "If an alarm ever sounds, leave the house immediately and call for help from outside."
   ],
+  "materials": [
+    {
+      "name": "Carbon monoxide detector",
+      "url": "https://www.amazon.com/s?k=carbon+monoxide+detector"
+    },
+    {
+      "name": "AA batteries",
+      "url": "https://www.amazon.com/s?k=AA+batteries"
+    }
+  ],
   "videoTitle": "How to Install Smoke and Carbon Monoxide Detectors - This Old House",
   "videoUrl": "https://www.bhg.com/home-improvement/advice/home-safety/carbon-monoxide-detector-guide/",
   "verified": true

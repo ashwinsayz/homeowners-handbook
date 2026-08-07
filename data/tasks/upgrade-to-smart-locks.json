@@ -16,6 +16,16 @@
     "Insert batteries and pair with the app or hub.",
     "Test locking/unlocking manually, by app, and by keypad/code before relying on it."
   ],
+  "materials": [
+    {
+      "name": "Smart deadbolt lock",
+      "url": "https://www.amazon.com/s?k=smart+deadbolt+lock"
+    },
+    {
+      "name": "Drill and hole saw kit",
+      "url": "https://www.amazon.com/s?k=drill+hole+saw+kit"
+    }
+  ],
   "videoTitle": "Search: 'how to install a smart deadbolt lock'",
   "videoUrl": "https://www.youtube.com/results?search_query=how+to+install+a+smart+door+lock",
   "verified": false

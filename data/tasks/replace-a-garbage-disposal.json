@@ -16,6 +16,24 @@
     "Reconnect the drain trap and dishwasher inlet (knock out the plug if new).",
     "Restore power and run water while testing the unit."
   ],
+  "materials": [
+    {
+      "name": "Garbage disposal",
+      "url": "https://www.amazon.com/s?k=garbage+disposal"
+    },
+    {
+      "name": "Plumber's putty",
+      "url": "https://www.homedepot.com/s/plumber%27s%20putty"
+    },
+    {
+      "name": "Disposal wrench",
+      "url": "https://www.amazon.com/s?k=garbage+disposal+wrench"
+    },
+    {
+      "name": "Electrical cord kit",
+      "url": "https://www.amazon.com/s?k=garbage+disposal+electrical+cord+kit"
+    }
+  ],
   "videoTitle": "Garbage Disposal Installation (VIDEO) - This Old House",
   "videoUrl": "https://www.thisoldhouse.com/kitchens/how-to-install-a-garbage-disposal-3",
   "verified": true

@@ -25,6 +25,12 @@
     "Does the service include inspecting and cleaning the flue and venting?",
     "How often do you recommend this service for a furnace of my age and type?"
   ],
+  "materials": [
+    {
+      "name": "MERV-11 furnace filter",
+      "url": "https://www.amazon.com/s?k=MERV+11+furnace+filter"
+    }
+  ],
   "videoTitle": "Search: 'furnace tune-up checklist what to expect'",
   "videoUrl": "https://www.bhg.com/home-improvement/advice/energy-efficient/furnace-maintenance-checklist/",
   "verified": false

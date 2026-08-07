@@ -16,6 +16,20 @@
     "Fill the tiny hole with a matching color wax filler stick.",
     "Buff with a soft cloth to blend the repair."
   ],
+  "materials": [
+    {
+      "name": "Squeak-relief screw kit",
+      "url": "https://www.amazon.com/s?k=squeak+relief+screw+kit"
+    },
+    {
+      "name": "Wood glue",
+      "url": "https://www.homedepot.com/s/wood%20glue"
+    },
+    {
+      "name": "Stain marker",
+      "url": "https://www.amazon.com/s?k=wood+stain+marker"
+    }
+  ],
   "videoTitle": "How To Fix Squeaky Floors - This Old House",
   "videoUrl": "https://www.youtube.com/results?search_query=how+to+fix+squeaky+hardwood+floor",
   "verified": true

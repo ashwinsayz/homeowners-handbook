@@ -16,6 +16,24 @@
     "Run a steady bead of 100% silicone caulk, then smooth with a wet finger.",
     "Remove the tape while wet; avoid water contact for 24 hours to cure."
   ],
+  "materials": [
+    {
+      "name": "100% silicone tub and tile caulk",
+      "url": "https://www.homedepot.com/s/silicone%20tub%20and%20tile%20caulk"
+    },
+    {
+      "name": "Caulk remover tool",
+      "url": "https://www.amazon.com/s?k=caulk+remover+tool"
+    },
+    {
+      "name": "Caulk gun",
+      "url": "https://www.homedepot.com/s/caulk%20gun"
+    },
+    {
+      "name": "Painter's tape",
+      "url": "https://www.amazon.com/s?k=painter%27s+tape"
+    }
+  ],
   "videoTitle": "How to Caulk Around a Bathtub | Ask This Old House",
   "videoUrl": "https://www.thespruce.com/recaulk-bathtub-or-shower-2718905",
   "verified": true

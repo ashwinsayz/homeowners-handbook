@@ -24,6 +24,20 @@
     "Could the guard installation void my roof manufacturer's warranty if it slides under the shingles?",
     "What is the product warranty and your installation workmanship warranty?"
   ],
+  "materials": [
+    {
+      "name": "Gutter guard",
+      "url": "https://www.lowes.com/search?searchTerm=gutter+guard"
+    },
+    {
+      "name": "Tin snips",
+      "url": "https://www.amazon.com/s?k=tin+snips"
+    },
+    {
+      "name": "Safety ladder",
+      "url": "https://www.amazon.com/s?k=safety+ladder"
+    }
+  ],
   "videoTitle": "Search: 'how to install gutter guards'",
   "videoUrl": "https://www.lowes.com/n/how-to/how-to-install-gutter-guards",
   "verified": false

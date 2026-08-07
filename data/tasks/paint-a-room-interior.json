@@ -16,6 +16,32 @@
     "Cut in edges with a brush, then roll the main surfaces in a 'W' pattern.",
     "Apply a second coat after the first dries fully; remove tape at a 45-degree angle."
   ],
+  "materials": [
+    {
+      "name": "Interior latex paint",
+      "url": "https://www.homedepot.com/s/interior%20latex%20paint"
+    },
+    {
+      "name": "Paint primer",
+      "url": "https://www.homedepot.com/s/paint%20primer"
+    },
+    {
+      "name": "Roller kit",
+      "url": "https://www.homedepot.com/s/paint%20roller%20kit"
+    },
+    {
+      "name": "Painter's tape",
+      "url": "https://www.amazon.com/s?k=painter%27s+tape"
+    },
+    {
+      "name": "Drop cloth",
+      "url": "https://www.homedepot.com/s/drop%20cloth"
+    },
+    {
+      "name": "Angled brush",
+      "url": "https://www.homedepot.com/s/angled%20paint%20brush"
+    }
+  ],
   "videoTitle": "Search: 'how to paint a room step by step'",
   "videoUrl": "https://www.familyhandyman.com/project/how-to-paint-a-room/",
   "verified": false

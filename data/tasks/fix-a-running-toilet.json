@@ -16,6 +16,20 @@
     "If water still runs, the fill valve may need replacing.",
     "Turn water back on and flush several times to confirm it stops running."
   ],
+  "materials": [
+    {
+      "name": "Toilet flapper kit",
+      "url": "https://www.homedepot.com/s/toilet%20flapper%20kit"
+    },
+    {
+      "name": "Toilet fill valve",
+      "url": "https://www.homedepot.com/s/toilet%20fill%20valve"
+    },
+    {
+      "name": "Adjustable wrench",
+      "url": "https://www.amazon.com/s?k=adjustable+wrench"
+    }
+  ],
   "videoTitle": "How To Fix a Running Toilet - This Old House",
   "videoUrl": "https://www.thisoldhouse.com/plumbing/how-to-fix-a-running-toilet",
   "verified": true

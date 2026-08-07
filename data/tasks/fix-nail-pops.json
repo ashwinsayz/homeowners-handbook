@@ -16,6 +16,24 @@
     "Sand smooth once dry.",
     "Prime and touch up paint."
   ],
+  "materials": [
+    {
+      "name": "Drywall screws",
+      "url": "https://www.homedepot.com/s/drywall%20screws"
+    },
+    {
+      "name": "Spackle",
+      "url": "https://www.homedepot.com/s/spackle"
+    },
+    {
+      "name": "Putty knife",
+      "url": "https://www.homedepot.com/s/putty%20knife"
+    },
+    {
+      "name": "Sandpaper",
+      "url": "https://www.homedepot.com/s/sandpaper"
+    }
+  ],
   "videoTitle": "Search: 'how to fix nail pops in drywall'",
   "videoUrl": "https://www.wikihow.com/Fix-Nail-Pops-in-Drywall",
   "verified": false

@@ -16,6 +16,16 @@
     "Shake dry-chemical extinguishers monthly to prevent the powder from settling/caking.",
     "Replace or professionally service per the tag date, generally every 6-12 years."
   ],
+  "materials": [
+    {
+      "name": "ABC fire extinguisher",
+      "url": "https://www.amazon.com/s?k=ABC+fire+extinguisher"
+    },
+    {
+      "name": "Fire extinguisher mount bracket",
+      "url": "https://www.amazon.com/s?k=fire+extinguisher+mount+bracket"
+    }
+  ],
   "videoTitle": "Search: 'how to inspect a home fire extinguisher'",
   "videoUrl": "https://www.youtube.com/results?search_query=fire+extinguisher+inspection+maintenance",
   "verified": false

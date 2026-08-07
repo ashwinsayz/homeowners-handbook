@@ -16,6 +16,16 @@
     "Avoid lubricating the tracks themselves - only the rollers and moving hardware.",
     "Open and close the door manually a few times to work in the lubricant."
   ],
+  "materials": [
+    {
+      "name": "White lithium grease spray",
+      "url": "https://www.amazon.com/s?k=white+lithium+grease+spray"
+    },
+    {
+      "name": "Silicone spray lubricant",
+      "url": "https://www.amazon.com/s?k=silicone+spray+lubricant"
+    }
+  ],
   "videoTitle": "Search: 'how to lubricate a garage door'",
   "videoUrl": "https://www.familyhandyman.com/project/garage-door-maintenance/",
   "verified": false

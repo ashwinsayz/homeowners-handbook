@@ -16,6 +16,20 @@
     "Blend repair compound with a putty knife and let cure per instructions.",
     "Buff or polish to match the surrounding sheen."
   ],
+  "materials": [
+    {
+      "name": "Vinyl floor repair kit",
+      "url": "https://www.amazon.com/s?k=vinyl+floor+repair+kit"
+    },
+    {
+      "name": "Flooring adhesive",
+      "url": "https://www.lowes.com/search?searchTerm=flooring+adhesive"
+    },
+    {
+      "name": "Seam sealer",
+      "url": "https://www.amazon.com/s?k=vinyl+floor+seam+sealer"
+    }
+  ],
   "videoTitle": "Search: 'how to repair a laminate or vinyl floor scratch'",
   "videoUrl": "https://www.wikihow.com/Repair-Vinyl-Flooring",
   "verified": false

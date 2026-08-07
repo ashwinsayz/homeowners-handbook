@@ -16,6 +16,20 @@
     "Wipe out residue with a damp cloth and finish with a vinegar spray to cut remaining film.",
     "Clean the door glass and reinstall racks once dry."
   ],
+  "materials": [
+    {
+      "name": "Oven cleaner spray",
+      "url": "https://www.amazon.com/s?k=oven+cleaner+spray"
+    },
+    {
+      "name": "Heavy-duty scrub pad",
+      "url": "https://www.amazon.com/s?k=heavy+duty+scrub+pad"
+    },
+    {
+      "name": "Baking soda",
+      "url": "https://www.amazon.com/s?k=baking+soda"
+    }
+  ],
   "videoTitle": "Search: 'how to deep clean an oven without harsh chemicals'",
   "videoUrl": "https://www.thespruce.com/how-to-clean-oven-1900558",
   "verified": false

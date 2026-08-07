@@ -16,6 +16,20 @@
     "Use pre-formed elbow pieces or extra tape at bends.",
     "Focus first on any pipe that has frozen before."
   ],
+  "materials": [
+    {
+      "name": "Foam pipe insulation",
+      "url": "https://www.homedepot.com/s/foam%20pipe%20insulation"
+    },
+    {
+      "name": "Pipe insulation tape",
+      "url": "https://www.amazon.com/s?k=pipe+insulation+tape"
+    },
+    {
+      "name": "Zip ties",
+      "url": "https://www.amazon.com/s?k=zip+ties"
+    }
+  ],
   "videoTitle": "Search: 'how to insulate exposed pipes'",
   "videoUrl": "https://www.bobvila.com/articles/how-to-insulate-pipes/",
   "verified": false

@@ -16,6 +16,16 @@
     "Replace batteries (non-hardwired models) every 6-12 months.",
     "Keep at least one detector per level and inside/outside each sleeping area."
   ],
+  "materials": [
+    {
+      "name": "Smoke detector",
+      "url": "https://www.amazon.com/s?k=smoke+detector"
+    },
+    {
+      "name": "9V battery",
+      "url": "https://www.amazon.com/s?k=9V+battery"
+    }
+  ],
   "videoTitle": "How to Install a Hard Wired Smoke Detector - Family Handyman",
   "videoUrl": "https://www.familyhandyman.com/project/install-new-hard-wired-or-battery-powered-smoke-alarms/",
   "verified": true

@@ -25,6 +25,28 @@
     "Do you check for moisture, mold, or pest issues in the attic before insulating?",
     "Can I qualify for utility rebates or federal energy efficiency tax credits on this work?"
   ],
+  "materials": [
+    {
+      "name": "Blown-in insulation",
+      "url": "https://www.homedepot.com/s/blown-in%20insulation"
+    },
+    {
+      "name": "Attic ruler/depth gauge",
+      "url": "https://www.amazon.com/s?k=attic+insulation+depth+gauge"
+    },
+    {
+      "name": "N95 respirator",
+      "url": "https://www.amazon.com/s?k=N95+respirator"
+    },
+    {
+      "name": "Safety goggles",
+      "url": "https://www.amazon.com/s?k=safety+goggles"
+    },
+    {
+      "name": "Attic insulation blower rental",
+      "url": "https://www.homedepot.com/s/insulation%20blower%20rental"
+    }
+  ],
   "videoTitle": "Search: 'how to insulate an attic DIY'",
   "videoUrl": "https://www.bobvila.com/articles/attic-insulation/",
   "verified": false

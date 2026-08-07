@@ -16,6 +16,14 @@
     "Install the new igniter, matching wire connections and mounting.",
     "Restore gas/power and test the oven; if unsure about gas lines, hire an appliance tech."
   ],
+  "pro_questions": [
+    "Are you familiar with my brand and model, and do you have access to OEM parts for it?",
+    "Will you confirm the igniter is the actual fault before ordering parts—could it be the gas valve, igniter module, or wiring?",
+    "Will you test for gas leaks with a detector after reassembling the range?",
+    "Do you use OEM or aftermarket replacement parts, and what is the warranty on the part?",
+    "What is included in the service call—diagnosis, parts, and labor?",
+    "If you find additional problems, will you quote them and get my approval before proceeding?"
+  ],
   "videoTitle": "Search: 'how to replace a gas oven igniter'",
   "videoUrl": "",
   "verified": false

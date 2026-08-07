@@ -16,6 +16,15 @@
     "Connect the system to Wi-Fi and pair sensors with the shutoff valve/app.",
     "Test by simulating a leak (a wet paper towel on a sensor) to confirm alerts and auto-shutoff work."
   ],
+  "pro_questions": [
+    "Are you a licensed plumber with experience installing smart water shutoff devices?",
+    "Where on the water main will the valve be installed, and will it shut off the whole house?",
+    "Will you test the automatic shutoff by simulating a leak trigger after installation?",
+    "What is the power source—hardwired, battery, or both—and what is battery life?",
+    "Does the system work if my Wi-Fi goes down, and how will I be notified of a shutoff?",
+    "Is installation compatible with my pipe material—copper, PEX, galvanized, or CPVC?",
+    "What is the warranty on the device, and does your installation labor come with a guarantee?"
+  ],
   "videoTitle": "Search: 'how to install a smart water leak detector shutoff valve'",
   "videoUrl": "",
   "verified": false

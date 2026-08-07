@@ -16,6 +16,15 @@
     "Ask about a camera inspection to identify root intrusion or pipe damage.",
     "Consider annual preventive snaking if you have mature trees near the line."
   ],
+  "pro_questions": [
+    "Are you a licensed plumber?",
+    "Do you recommend adding a camera inspection to check for root intrusion, pipe offset, or collapse?",
+    "Where is my sewer cleanout, and is it accessible without excavation?",
+    "If you find a collapsed or severely damaged section, what are the repair options and rough cost range?",
+    "How long should the line stay clear after this service under normal conditions?",
+    "Do you offer a service guarantee, and what does it cover if the clog returns quickly?",
+    "What early warning signs should I watch for to know the blockage is recurring?"
+  ],
   "videoTitle": "Search: 'main sewer line cleanout snake process'",
   "videoUrl": "",
   "verified": false

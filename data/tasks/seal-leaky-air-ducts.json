@@ -16,6 +16,14 @@
     "Insulate ducts running through unconditioned spaces.",
     "For hidden/hard-to-reach ducts, hire a pro for a duct-sealing service (aeroseal)."
   ],
+  "pro_questions": [
+    "Will you use Aeroseal pressurized spray or hand-applied mastic, and which is more effective for my duct layout?",
+    "Can you perform a duct blaster test before and after to quantify the leakage reduction?",
+    "Will you seal both supply and return ducts?",
+    "Are there sections of ductwork too deteriorated to seal that need full replacement?",
+    "Will the work include insulating ducts that run through unconditioned spaces?",
+    "Can I qualify for a utility rebate for duct sealing, and will you provide documentation?"
+  ],
   "videoTitle": "Search: 'how to seal air ducts DIY'",
   "videoUrl": "",
   "verified": false

@@ -16,6 +16,14 @@
     "Inspect the thermal fuse (a common failure point) with a multimeter if comfortable.",
     "If the heating element or gas valve is at fault, call an appliance technician."
   ],
+  "pro_questions": [
+    "Are you experienced with my brand and model of dryer?",
+    "Will you diagnose which specific component has failed—heating element, thermal fuse, thermostat, gas valve, or igniter—before quoting a repair?",
+    "Do you use OEM or aftermarket replacement parts, and what is the parts warranty?",
+    "Will you inspect and clean the vent line as part of this service call?",
+    "If repair cost approaches the price of a new unit, will you advise me on replacement instead?",
+    "What is your diagnostic fee, and does it apply toward the repair cost if I proceed?"
+  ],
   "videoTitle": "Search: 'dryer not heating troubleshooting guide'",
   "videoUrl": "",
   "verified": false

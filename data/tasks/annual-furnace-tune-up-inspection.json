@@ -16,6 +16,15 @@
     "Ask for a written report of any parts nearing end of life.",
     "Replace the filter immediately after the visit."
   ],
+  "pro_questions": [
+    "Are you licensed and insured to work on gas/oil furnaces in this state?",
+    "Does this tune-up include a combustion efficiency test and carbon monoxide safety check?",
+    "How do you inspect the heat exchanger for cracks—do you use a camera?",
+    "Will you provide a written report noting any parts within 1–2 years of end of life?",
+    "If you find something that needs repair, will you quote it before starting work?",
+    "Does the service include inspecting and cleaning the flue and venting?",
+    "How often do you recommend this service for a furnace of my age and type?"
+  ],
   "videoTitle": "Search: 'furnace tune-up checklist what to expect'",
   "videoUrl": "",
   "verified": false

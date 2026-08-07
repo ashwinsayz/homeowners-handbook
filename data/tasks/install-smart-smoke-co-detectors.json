@@ -16,6 +16,15 @@
     "Pair each unit with the manufacturer's app and assign it to a room.",
     "Test all units and set up mobile alerts."
   ],
+  "pro_questions": [
+    "Are you a licensed electrician for hardwired installations?",
+    "Will all detectors be hardwired and interconnected so every unit sounds when one triggers?",
+    "Are these units compatible with my existing alarm wiring?",
+    "Do they meet current building code requirements for placement and quantity in my jurisdiction?",
+    "Do they include both smoke and carbon monoxide detection in one unit?",
+    "What is the battery backup duration in a power outage?",
+    "What is the useful lifespan and when will I need to replace the sensors?"
+  ],
   "videoTitle": "How to Install Smart Smoke and CO Detectors - This Old House",
   "videoUrl": "https://www.thisoldhouse.com/smart-homes/21016109/how-to-install-smart-smoke-and-co-detectors",
   "verified": true

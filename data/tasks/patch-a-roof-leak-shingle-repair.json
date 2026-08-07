@@ -16,6 +16,15 @@
     "Ask them to check the underlayment and flashing near the leak, not just the shingle.",
     "Get photos of the repair and ask about remaining shingle/roof lifespan."
   ],
+  "pro_questions": [
+    "Are you licensed, insured, and experienced specifically with shingle roofs?",
+    "Will you inspect the underlayment and flashing around the repair area—not just the visible shingles?",
+    "Can you match my existing shingle color, profile, and manufacturer?",
+    "Will you provide before-and-after photos of the completed repair?",
+    "What is the estimated remaining lifespan of my roof based on what you observe?",
+    "Does the repair come with a workmanship warranty, and for how long?",
+    "Should I file a homeowner's insurance claim for this damage, or would that affect my rates?"
+  ],
   "videoTitle": "Search: 'roof shingle leak repair process'",
   "videoUrl": "",
   "verified": false

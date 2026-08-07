@@ -16,6 +16,15 @@
     "Ask for a Level 1 inspection annually; a Level 2 if you've had changes or damage.",
     "Keep the documentation - it's often required by homeowners insurance."
   ],
+  "pro_questions": [
+    "Are you CSIA (Chimney Safety Institute of America) certified?",
+    "What inspection level will you perform—Level 1, 2, or 3—and what does each cover?",
+    "Do you use a video camera to inspect the flue liner for cracks or deterioration?",
+    "How do you measure and remove creosote buildup, and what stage is mine at?",
+    "If you find a cracked liner or structural damage, will you provide a written estimate before doing any work?",
+    "Are there any fire code issues with my fireplace or insert configuration?",
+    "What is the expected timeframe before I need cleaning again given my usage?"
+  ],
   "videoTitle": "Search: 'chimney sweep inspection what to expect'",
   "videoUrl": "",
   "verified": false

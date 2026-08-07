@@ -16,6 +16,15 @@
     "For a permanent fix on copper/PVC, cut out and re-solder or re-glue the section.",
     "If it's inside a wall or the damage is extensive, call a licensed plumber."
   ],
+  "pro_questions": [
+    "Are you a licensed plumber?",
+    "Is this repair permanent, or a temporary fix that will need to be revisited?",
+    "Will you inspect the surrounding pipe for corrosion, pinhole pitting, or other weak spots?",
+    "Is there water damage to surrounding walls, flooring, or insulation that needs to be addressed?",
+    "Is a permit required for this type of repair in my municipality?",
+    "What caused this joint to fail—age, pressure surges, movement—and is it likely to recur elsewhere?",
+    "Does the repair come with a warranty?"
+  ],
   "videoTitle": "Search: 'how to fix a leaking pipe joint'",
   "videoUrl": "",
   "verified": false

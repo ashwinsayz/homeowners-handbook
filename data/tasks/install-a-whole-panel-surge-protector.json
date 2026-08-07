@@ -16,6 +16,15 @@
     "Ask about a status indicator light so you know when it needs replacing.",
     "Pair with point-of-use surge strips for sensitive electronics."
   ],
+  "pro_questions": [
+    "Are you a licensed electrician, and do you carry liability insurance?",
+    "What brand and model surge protector do you recommend, and what is its joule rating and clamping voltage?",
+    "Does my panel have sufficient breaker space, or will additional panel work be needed?",
+    "Will this job require a permit, and will you pull and close it?",
+    "Does the unit have a status indicator light so I know when it needs replacing?",
+    "Will this protect my HVAC system and large appliances, or do I need supplemental point-of-use protection?",
+    "What is the warranty on the device, and does your labor come with a guarantee?"
+  ],
   "videoTitle": "Search: 'whole house surge protector installation'",
   "videoUrl": "",
   "verified": false

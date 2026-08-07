@@ -16,6 +16,14 @@
     "For systems without drains, a pro uses an air compressor to blow out remaining water (recommended, since DIY blow-outs risk pipe damage from over-pressurizing).",
     "Insulate the backflow preventer with a foam cover."
   ],
+  "pro_questions": [
+    "Do you use compressed air blow-out, and what PSI do you use for my pipe material—PVC versus polyethylene?",
+    "How many passes per zone do you make to ensure all water is expelled?",
+    "Will you check for broken heads, leaks, or valve issues before winterizing?",
+    "Do you document which zones were serviced and confirm each is clear?",
+    "Will you properly shut off and drain the backflow preventer, and insulate it if needed?",
+    "When should I schedule spring startup, and do you offer a combined annual service package?"
+  ],
   "videoTitle": "Search: 'how to winterize a sprinkler system'",
   "videoUrl": "",
   "verified": false
